@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Broken Sword: Director's Cut",
+    "added": "2019.06",
+    "removed": "2021.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/57640/Broken_Sword_Directors_Cut/"
+    }
+  },
+  {
+    "name": "Deponia",
+    "added": "2019.06",
+    "removed": "2021.06",
+    "urls": { "steam": "https://store.steampowered.com/app/214340/Deponia/" }
+  },
+  {
+    "name": "Avadon 3: The Warborn",
+    "added": "2019.05",
+    "removed": "2021.05",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/460780/Avadon_3_The_Warborn/"
+    }
+  },
+  {
+    "name": "Avadon 3 Hintbook and Bonuses",
+    "added": "2019.05",
+    "removed": "2021.05",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/518630/Avadon_3_Hintbook_and_Bonuses/"
+    }
+  },
+  {
+    "name": "MirrorMoon EP",
+    "added": "2019.05",
+    "removed": "2021.05",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/231310/MirrorMoon_EP/"
+    }
+  },
+  {
+    "name": "Avadon 2: The Corruption",
+    "added": "2019.04",
+    "removed": "2021.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/233310/Avadon_2_The_Corruption/"
+    }
+  },
+  {
+    "name": "FOTONICA",
+    "added": "2019.04",
+    "removed": "2021.04",
+    "urls": { "steam": "https://store.steampowered.com/app/253290/FOTONICA/" }
+  },
+  {
+    "name": "Tokyo 42",
+    "added": "2019.04",
+    "removed": "2021.04",
+    "urls": { "steam": "https://store.steampowered.com/app/490450/Tokyo_42/" }
+  },
+  {
+    "name": "Avadon: The Black Fortress",
+    "added": "2019.03",
+    "removed": "2021.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/112100/Avadon_The_Black_Fortress/"
+    }
+  },
+  {
+    "name": "Overture",
+    "added": "2019.03",
+    "removed": "2021.04",
+    "urls": { "steam": "https://store.steampowered.com/app/343100/Overture/" }
+  },
+  {
+    "name": "Wheels of Aurelia",
+    "added": "2019.03",
+    "removed": "2021.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/508740/Wheels_of_Aurelia/"
+    }
+  },
+  {
+    "name": "The Incredible Machine Mega Pack",
+    "added": "2018.03",
+    "removed": "2021.03",
+    "urls": {
+      "gog": "https://www.gog.com/game/the_incredible_machine_mega_pack"
+    },
+    "note": "Not available on Steam"
+  },
+  {
+    "name": "Trine Enchanted Edition",
+    "added": "2017.06",
+    "removed": "2021.03",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/"
+    }
+  },
+  {
+    "name": "SanctuaryRPG: Black Edition",
+    "added": "2019.02",
+    "removed": "2021.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/328760/SanctuaryRPG_Black_Edition/"
+    }
+  },
+  {
+    "name": "Tacoma",
+    "added": "2019.02",
+    "removed": "2021.02",
+    "urls": { "steam": "https://store.steampowered.com/app/343860/Tacoma/" }
+  },
+  {
+    "name": "STAR WARS™ X-Wing vs TIE Fighter - Balance of Power Campaigns™",
+    "added": "2018.05",
+    "removed": "2021.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/361690/STAR_WARS_XWing_vs_TIE_Fighter__Balance_of_Power_Campaigns/"
+    }
+  },
+  {
+    "name": "STAR WARS™ Rebellion",
+    "added": "2018.05",
+    "removed": "2021.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/441550/STAR_WARS_Rebellion/"
+    }
+  },
+  {
+    "name": "STAR WARS™ - X-Wing Alliance™",
+    "added": "2018.05",
+    "removed": "2021.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/361670/STAR_WARS__XWing_Alliance/"
+    }
+  },
+  {
+    "name": "Indiana Jones® and the Fate of Atlantis™",
+    "added": "2018.03",
+    "removed": "2021.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/"
+    }
+  },
+  {
+    "name": "Fallen Enchantress: Legendary Heroes",
+    "added": "2017.12",
+    "removed": "2020.12",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/228260/Fallen_Enchantress_Legendary_Heroes/"
+    }
+  },
+  {
+    "name": "Epistory - Typing Chronicles",
+    "added": "2018.11",
+    "removed": "2020.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/398850/Epistory__Typing_Chronicles/"
+    }
+  },
+  {
+    "name": "Frozen Synapse",
+    "added": "2018.11",
+    "removed": "2020.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/98200/Frozen_Synapse/"
+    }
+  },
+  {
+    "name": "Renowned Explorers: International Society Complete Edition",
+    "added": "2018.11",
+    "removed": "2020.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/296970/Renowned_Explorers_International_Society/"
+    }
+  },
+  {
+    "name": "vApe Escape",
+    "added": "2018.11",
+    "removed": "2020.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/1035890/vApe_Escape/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Orwell: Keeping an Eye On You",
+    "added": "2018.10",
+    "removed": "2020.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/491950/Orwell_Keeping_an_Eye_On_You/"
+    }
+  },
+  {
+    "name": "Reus",
+    "added": "2018.10",
+    "removed": "2020.10",
+    "urls": { "steam": "https://store.steampowered.com/app/222730/Reus/" }
+  },
+  {
+    "name": "Tumblestone",
+    "added": "2018.10",
+    "removed": "2020.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/269710/Tumblestone/"
+    }
+  },
+  {
+    "name": "Hacknet",
+    "added": "2018.09",
+    "removed": "2020.09",
+    "urls": { "steam": "https://store.steampowered.com/app/365450/Hacknet/" }
+  },
+  {
+    "name": "Gemini Rue",
+    "added": "2018.09",
+    "removed": "2020.09",
+    "urls": { "steam": "https://store.steampowered.com/app/80310/Gemini_Rue/" }
+  },
+  {
+    "name": "Dungeon Souls",
+    "added": "2018.09",
+    "removed": "2020.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/383230/Dungeon_Souls/"
+    }
+  },
+  {
+    "name": "The Bridge",
+    "added": "2018.09",
+    "removed": "2020.09",
+    "urls": { "steam": "https://store.steampowered.com/app/204240/The_Bridge/" }
+  },
+  {
+    "name": "SOMA",
+    "added": "2018.08",
+    "removed": "2020.08",
+    "urls": { "steam": "https://store.steampowered.com/app/282140/SOMA/" }
+  },
+  {
+    "name": "The Sexy Brutale",
+    "added": "2018.07",
+    "removed": "2020.07",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/552590/The_Sexy_Brutale/"
+    }
+  },
+  {
+    "name": "Amnesia: A Machine for Pigs",
+    "added": "2018.07",
+    "removed": "2020.07",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/"
+    }
+  },
+  {
+    "name": "Penumbra Collectors Pack",
+    "added": "2018.06",
+    "removed": "2020.06",
+    "urls": { "steam": "https://store.steampowered.com/sub/32031" }
+  },
+  {
+    "name": "Satellite Reign",
+    "added": "2018.06",
+    "removed": "2020.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/268870/Satellite_Reign/"
+    }
+  },
+  {
+    "name": "Deadlight",
+    "added": "2018.06",
+    "removed": "2020.06",
+    "urls": { "steam": "https://store.steampowered.com/app/211400/Deadlight/" }
+  },
+  {
+    "name": "Wasteland 1 - The Original Classic",
+    "added": "2018.04",
+    "removed": "2020.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/"
+    }
+  },
+  {
+    "name": "The Bard's Tale",
+    "added": "2018.04",
+    "removed": "2020.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/41900/The_Bards_Tale/"
+    }
+  },
+  {
+    "name": "140",
+    "added": "2018.04",
+    "removed": "2020.04",
+    "urls": { "steam": "https://store.steampowered.com/app/242820/140/" }
+  },
+  {
+    "name": "Frozen Cortex",
+    "added": "2019.01",
+    "removed": "2020.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/237350/Frozen_Cortex/"
+    }
+  },
+  {
+    "name": "Super Meat Boy",
+    "added": "2018.12",
+    "removed": "2020.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/40800/Super_Meat_Boy/"
+    }
+  },
+  {
+    "name": "Cut & Run",
+    "added": "2018.12",
+    "removed": "2020.02",
+    "urls": { "homepage": "https://www.simplemachine.co/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Torchlight",
+    "added": "2018.01",
+    "removed": "2020.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/41500/Torchlight/"
+    }
+  },
+  {
+    "name": "Torchlight II",
+    "added": "2018.01",
+    "removed": "2020.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/200710/Torchlight_II/"
+    }
+  },
+  {
+    "name": "Galactic Civilizations® II: Ultimate Edition",
+    "added": "2017.12",
+    "removed": "2019.12",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/202200/Galactic_Civilizations_II_Ultimate_Edition/"
+    }
+  },
+  {
+    "name": "Overlord II",
+    "added": "2017.11",
+    "removed": "2019.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/12810/Overlord_II/"
+    }
+  },
+  {
+    "name": "AI War Bundle (2014)",
+    "added": "2017.11",
+    "removed": "2019.11",
+    "urls": { "steam": "https://store.steampowered.com/sub/49306" }
+  },
+  {
+    "name": "Bionic Dues",
+    "added": "2017.11",
+    "removed": "2019.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/238910/Bionic_Dues/"
+    }
+  },
+  {
+    "name": "The Last Federation",
+    "added": "2017.11",
+    "removed": "2019.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/273070/The_Last_Federation/"
+    }
+  },
+  {
+    "name": "Starward Rogue",
+    "added": "2017.11",
+    "removed": "2019.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/410820/Starward_Rogue/"
+    }
+  },
+  {
+    "name": "Amnesia: The Dark Descent",
+    "added": "2017.10",
+    "removed": "2019.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
+    }
+  },
+  {
+    "name": "The End Is Nigh",
+    "added": "2017.10",
+    "removed": "2019.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/583470/The_End_Is_Nigh/"
+    }
+  },
+  {
+    "name": "Overlord™",
+    "added": "2017.10",
+    "removed": "2019.10",
+    "urls": { "steam": "https://store.steampowered.com/app/11450/Overlord/" }
+  },
+  {
+    "name": "LIMBO",
+    "added": "2017.10",
+    "removed": "2019.10",
+    "urls": { "steam": "https://store.steampowered.com/app/48000/LIMBO/" }
+  },
+  {
+    "name": "Gone Home",
+    "added": "2017.10",
+    "removed": "2019.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/232430/Gone_Home/"
+    }
+  },
+  {
+    "name": "Teslagrad",
+    "added": "2017.10",
+    "removed": "2019.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/249590/Teslagrad/"
+    }
+  },
+  {
+    "name": "Oh, Deer!",
+    "added": "2017.06",
+    "removed": "2019.10",
+    "urls": { "homepage": "https://necrosoftgames.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Shelter",
+    "added": "2017.06",
+    "removed": "2019.09",
+    "urls": { "steam": "https://store.steampowered.com/app/244710/Shelter/" }
+  },
+  {
+    "name": "Strike Suit Zero",
+    "added": "2017.06",
+    "removed": "2019.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/209540/Strike_Suit_Zero/"
+    }
+  },
+  {
+    "name": "Volgarr the Viking",
+    "added": "2017.06",
+    "removed": "2019.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/247240/Volgarr_the_Viking/"
+    }
+  },
+  {
+    "name": "Dustforce DX",
+    "added": "2017.06",
+    "removed": "2019.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/65300/Dustforce_DX/"
+    }
+  },
+  {
+    "name": "DISC ROOM",
+    "added": "2017.06",
+    "removed": "2019.09",
+    "urls": { "homepage": "https://twitter.com/kittycalis" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Cat Girl Without Salad",
+    "added": "2017.06",
+    "removed": "2019.09",
+    "urls": { "homepage": "https://wayforward.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Alan Wake's American Nightmare",
+    "added": "2017.10",
+    "removed": "2018.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/"
+    }
+  },
+  {
+    "name": "Shadowrun Returns",
+    "added": "2017.10",
+    "removed": "2018.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/234650/Shadowrun_Returns/"
+    }
+  },
+  {
+    "name": "Starseed Pilgrim",
+    "added": "2017.06",
+    "removed": "2018.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/230980/Starseed_Pilgrim/"
+    }
+  }
+]

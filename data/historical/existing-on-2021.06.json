@@ -1,0 +1,538 @@
+[
+  {
+    "name": "Fistful of Nothing",
+    "added": "2021.06",
+    "urls": { "homepage": "https://gesinimo.co.uk/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Summertime Madness",
+    "added": "2021.05",
+    "urls": { "homepage": "https://www.summertimemadness.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Rogue Mansion",
+    "added": "2021.04",
+    "urls": { "homepage": "https://www.almenaragames.com/rogue-mansion" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Ruin Raiders - Unknown Menace",
+    "added": "2021.03",
+    "urls": { "homepage": "https://www.overpoweredteam.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "co-open",
+    "added": "2021.02",
+    "urls": { "homepage": "https://lowpolis.neocities.org/co-open/about/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Heeey! Park-Boy",
+    "added": "2021.01",
+    "urls": { "homepage": "https://treythepunkid.itch.io/park-boy" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "The Corridor",
+    "added": "2020.12",
+    "urls": { "homepage": "https://thecorridorthegamethetrailer.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "TORII",
+    "added": "2020.11",
+    "urls": { "homepage": "https://www.humblegames.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Syzygy",
+    "added": "2020.10",
+    "urls": { "homepage": "https://www.humblegames.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Fate of Kai",
+    "added": "2020.10",
+    "urls": { "homepage": "https://twitter.com/TrylightGames" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Alt254",
+    "added": "2020.09",
+    "urls": { "homepage": "https://renamestudio.com/alt254" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Zodiac XX",
+    "added": "2020.08",
+    "urls": { "homepage": "https://www.humblegames.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Booth",
+    "added": "2020.08",
+    "urls": { "homepage": "https://www.humblegames.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Grotto",
+    "added": "2020.07",
+    "urls": { "homepage": "https://www.humblegames.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Before I Forget",
+    "added": "2020.06",
+    "urls": { "homepage": "https://www.3foldgames.uk/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Bomber Crew",
+    "added": "2020.05",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/537800/Bomber_Crew/"
+    }
+  },
+  {
+    "name": "Rainy Season",
+    "added": "2020.05",
+    "urls": { "homepage": "https://inasa.itch.io/rainy-season" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "When Ski Lifts Go Wrong",
+    "added": "2020.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/638000/When_Ski_Lifts_Go_Wrong/"
+    }
+  },
+  {
+    "name": "Divinoids",
+    "added": "2020.04",
+    "urls": { "homepage": "https://twitter.com/divinoids" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Etherborn",
+    "added": "2020.03",
+    "urls": { "steam": "https://store.steampowered.com/app/812160/Etherborn/" }
+  },
+  {
+    "name": "Snake Pass",
+    "added": "2020.03",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/544330/Snake_Pass/"
+    }
+  },
+  {
+    "name": "Space Routine",
+    "added": "2020.03",
+    "urls": { "homepage": "http://www.spaceroutine.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Card Quest",
+    "added": "2020.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/493080/Card_Quest/"
+    }
+  },
+  {
+    "name": "Tales From Off-Peak City Vol. 1",
+    "added": "2020.02",
+    "urls": { "homepage": "https://cosmoddd.itch.io/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "The Flame in the Flood",
+    "added": "2020.01",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/318600/The_Flame_in_the_Flood/"
+    }
+  },
+  {
+    "name": "Unparallel",
+    "added": "2020.01",
+    "urls": { "homepage": "http://parenthesix.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Dear Esther",
+    "added": "2019.12",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/203810/Dear_Esther/"
+    }
+  },
+  {
+    "name": "Race The Sun: Challenge Edition",
+    "added": "2019.12",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/253030/Race_The_Sun/"
+    }
+  },
+  {
+    "name": "Arrog",
+    "added": "2019.12",
+    "urls": { "homepage": "http://www.leapgs.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Balconing Simulator 2020",
+    "added": "2019.12",
+    "urls": {
+      "homepage": "https://www.humblebundle.com/publishing"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Runestone Keeper",
+    "added": "2019.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/339400/Runestone_Keeper/"
+    }
+  },
+  {
+    "name": "The Whispered World Special Edition",
+    "added": "2019.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/268540/The_Whispered_World_Special_Edition/"
+    }
+  },
+  {
+    "name": "Operator",
+    "added": "2019.11",
+    "urls": { "homepage": "http://www.greenflystudios.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Broken Sword 5 - the Serpent's Curse",
+    "added": "2019.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/262940/Broken_Sword_5__the_Serpents_Curse/"
+    }
+  },
+  {
+    "name": "Valhalla Hills",
+    "added": "2019.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/351910/Valhalla_Hills/"
+    }
+  },
+  {
+    "name": "Roman Sands",
+    "added": "2019.10",
+    "urls": {
+      "homepage": "https://sites.google.com/site/arbitrarymetric123/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Blackguards",
+    "added": "2019.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/249650/Blackguards/"
+    }
+  },
+  {
+    "name": "Broken Sword 4 - the Angel of Death",
+    "added": "2019.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/316160/Broken_Sword_4__the_Angel_of_Death/"
+    }
+  },
+  {
+    "name": "Shady Knight",
+    "added": "2019.09",
+    "urls": {
+      "homepage": "https://cptnsigh.itch.io/shady-knight"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Broken Sword 3 - the Sleeping Dragon",
+    "added": "2019.08",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/33610/Broken_Sword_3__the_Sleeping_Dragon/"
+    }
+  },
+  {
+    "name": "Chaos on Deponia",
+    "added": "2019.08",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/220740/Chaos_on_Deponia/"
+    }
+  },
+  {
+    "name": "DON'T GIVE UP: A Cynical Tale",
+    "added": "2019.08",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/960710/DONT_GIVE_UP_A_Cynical_Tale/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Anna's Quest",
+    "added": "2019.07",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/327220/Annas_Quest/"
+    }
+  },
+  {
+    "name": "Broken Sword 2 - the Smoking Mirror: Remastered",
+    "added": "2019.07",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/"
+    }
+  },
+  {
+    "name": "Kind Words (lo fi chill beats to write to)",
+    "added": "2019.07",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "macdows 95",
+    "added": "2019.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/948900/macdows_95/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Once Upon A Crime In The West",
+    "added": "2019.05",
+    "urls": {
+      "homepage": "https://nationalinsecurities.itch.io/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "A Short Hike",
+    "added": "2019.04",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/1055540/A_Short_Hike/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "20 Minute Metropolis",
+    "added": "2019.03",
+    "urls": { "homepage": "https://www.dejobaan.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "after HOURS",
+    "added": "2019.02",
+    "urls": { "homepage": "https://igf.com/after-hours" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Roombo: First Blood",
+    "added": "2019.01",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/1004610/Roombo_First_Blood/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Ollie & Bollie's Outdoor Estate",
+    "added": "2018.10",
+    "urls": { "homepage": "https://sokpop.co/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "ETHEREAL",
+    "added": "2018.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/751220/ETHEREAL/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Woten",
+    "added": "2018.08",
+    "urls": { "homepage": "https://twitter.com/grapplebug" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Stumblehill",
+    "added": "2018.07",
+    "urls": {
+      "homepage": "http://www.hempuli.com/stumblehill/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Subserial Network",
+    "added": "2018.06",
+    "urls": { "homepage": "http://subserial.network/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Knight Club",
+    "added": "2018.05",
+    "urls": { "homepage": "https://www.gutterarcade.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Lyric Sonata",
+    "added": "2018.04",
+    "urls": {
+      "homepage": "http://davidkanaga.com/sonataforms/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Drawkanoid",
+    "added": "2018.03",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/951370/Drawkanoid/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Fortune-499",
+    "added": "2018.02",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/840610/Fortune499/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "HitchHiker",
+    "added": "2018.01",
+    "urls": { "homepage": "http://www.hitchhiker-game.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "THOR.N",
+    "added": "2017.12",
+    "urls": { "homepage": "https://www.thorn-game.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Crescent Bay",
+    "added": "2017.12",
+    "urls": { "homepage": "https://www.crescentbay-game.com" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Wilmot's Warehouse",
+    "added": "2017.11",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/839870/Wilmots_Warehouse/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Getting Over It with Bennett Foddy",
+    "added": "2017.10",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Volantia",
+    "added": "2017.09",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/799670/Volantia/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Quiet City",
+    "added": "2017.08",
+    "urls": { "homepage": "http://www.increpare.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "2000:1: A Space Felony",
+    "added": "2017.07",
+    "urls": {
+      "homepage": "https://nationalinsecurities.itch.io/2000to1-a-space-felony"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Tiny Echo",
+    "added": "2017.07",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/629770/Tiny_Echo/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "A2Be - A Science Fiction Narrative",
+    "added": "2017.06",
+    "urls": { "homepage": "http://vagabonddog.com/a2be" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Jawns",
+    "added": "2017.06",
+    "urls": { "homepage": "http://cipherprime.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Uurnog Uurnlimited",
+    "added": "2017.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/678850/Uurnog_Uurnlimited/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Kimmy",
+    "added": "2017.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/600660/Kimmy/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Yojimbrawl",
+    "added": "2017.06",
+    "urls": { "homepage": "http://freelives.net/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Keyboard Sports",
+    "added": "2017.06",
+    "urls": { "homepage": "http://keyboardsports.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Spoolside",
+    "added": "2017.06",
+    "urls": { "homepage": "http://www.gloamcollective.com/" },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Copoka",
+    "added": "2017.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/582620/Copoka/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Gunmetal Arcadia Zero",
+    "added": "2017.06",
+    "urls": {
+      "steam": "https://store.steampowered.com/app/555610/Gunmetal_Arcadia_Zero/"
+    },
+    "note": "Humble Original"
+  },
+  {
+    "name": "Elephant in the Room",
+    "added": "2017.06",
+    "urls": { "homepage": "http://www.mightyrabbitstudios.com/" },
+    "note": "Humble Original"
+  }
+]

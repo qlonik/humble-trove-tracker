@@ -1,4 +1,14 @@
+# Humble Trove Tracker
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Prior work
+
+The following projects are designed for downloading games from Humble Bundle.
+They also include some code dealing with games from Humble Trove.
+
+* https://github.com/MKindy/hb-downloader
+* https://github.com/xtream1101/humblebundle-downloader
 
 ## Getting Started
 

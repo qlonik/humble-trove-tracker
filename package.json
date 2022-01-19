@@ -1,7 +1,6 @@
 {
   "name": "humble-trove-tracker",
   "private": true,
-  "type": "module",
   "scripts": {
     "create-snapshot": "node --loader ts-node/esm src/create-data-snapshot.ts",
     "dev": "next dev",

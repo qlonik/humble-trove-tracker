@@ -1,71 +1,49 @@
-import * as T from "@effect-ts/core/Effect";
+import { Tagged } from "@effect-ts/core/Case";
 import * as A from "@effect-ts/core/Collections/Immutable/Array";
+import * as Tp from "@effect-ts/core/Collections/Immutable/Tuple";
+import * as T from "@effect-ts/core/Effect";
+import * as E from "@effect-ts/core/Either";
 import * as O from "@effect-ts/core/Option";
 import * as Ord from "@effect-ts/core/Ord";
-import { flow, pipe } from "@effect-ts/system/Function";
-import { Dirent, mkdir, readdir, readFile, writeFile } from "fs";
-import { HasClock } from "@effect-ts/system/Clock";
-import fetch_, { RequestInfo, RequestInit, Response } from "node-fetch";
+import { flow, identity, pipe } from "@effect-ts/system/Function";
 import { basename, join } from "path";
-import ErrnoException = NodeJS.ErrnoException;
 import isEqual from "lodash.isequal";
 import prettier from "prettier";
+
+import { chainRec } from "@/src/bindings/chain-rec";
+import { fetch, responseToJson } from "@/src/bindings/fetch";
+import * as fs from "@/src/bindings/fs";
+import * as Json from "@/src/bindings/json";
+import { unifyOption } from "@/src/unify-option";
 
 const TROVE_PAGE_URL = (chunk_index: number) =>
   `https://www.humblebundle.com/api/v1/trove/chunk?property=popularity&direction=desc&index=${chunk_index}`;
 
-const fetch = (url: RequestInfo, opts?: Omit<RequestInit, "signal">) =>
-  T.effectAsyncInterrupt<unknown, unknown, Response>((cb) => {
-    const { signal, abort } = new AbortController();
+class DataIsNotAnArrayError extends Tagged("data-is-not-an-array-error")<{
+  readonly result: unknown;
+}> {}
 
-    fetch_(url, { ...opts, signal }).then(
-      (response) => cb(T.succeed(response)),
-      (error) => cb(T.fail(error))
-    );
-
-    return T.succeedWith(() => {
-      abort();
-    });
-  });
-
-const jsonFromReq = (req: Response): T.IO<unknown, unknown> =>
-  T.tryPromise(() => req.json());
-
-function collectData() {
-  function go(
-    idx: number,
-    data: unknown[]
-  ): T.Effect<HasClock, Error, unknown[]> {
-    return pipe(
+const downloadData = chainRec(
+  ({ tuple: [idx, data] }: Tp.Tuple<[number, A.Array<unknown>]>) =>
+    pipe(
       fetch(TROVE_PAGE_URL(idx)),
-      T.mapError((x) => new Error("can not query: " + x)),
-      T.chain((req) =>
-        T.mapError_(
-          jsonFromReq(req),
-          (x) => new Error("can not parse json: " + x)
-        )
-      ),
-
+      T.chain(responseToJson),
+      idx === 0 ? identity : T.delay(1000),
       T.chain((result) =>
-        Array.isArray(result)
-          ? result.length === 0
-            ? T.succeed(data)
-            : T.delay_(go(idx + 1, [...data, ...result]), 1000)
-          : T.fail(new Error("did not receive array: " + result))
+        !Array.isArray(result)
+          ? T.fail(DataIsNotAnArrayError.make({ result }))
+          : T.succeed(
+              A.isNonEmpty(result)
+                ? E.left(Tp.tuple(idx + 1, A.concat_(data, result)))
+                : E.right(data)
+            )
       )
-    );
-  }
+    )
+)(Tp.tuple(0, []));
 
-  return go(0, []);
-}
-
-function loadLatestFrom(path: string) {
+function loadLatestSnapshotFrom(path: string) {
   return pipe(
-    T.effectAsync<unknown, ErrnoException, Dirent[]>((cb) => {
-      readdir(path, { encoding: "utf-8", withFileTypes: true }, (err, files) =>
-        err ? cb(T.fail(err)) : cb(T.succeed(files))
-      );
-    }),
+    fs.readdir(path, { withFileTypes: true }),
     T.map(
       flow(
         A.collect((file) =>
@@ -85,29 +63,12 @@ function loadLatestFrom(path: string) {
     T.catchAll((err) =>
       err.code === "ENOENT" ? T.succeed(O.none) : T.fail(err)
     ),
-    T.mapError(O.some),
+    T.asSomeError,
     T.chain(T.fromOption),
     T.map((id) => join(path, `${id}.json`)),
-    T.chain((path) =>
-      T.effectAsyncInterrupt<unknown, O.Option<ErrnoException>, string>(
-        (cb) => {
-          const { signal, abort } = new AbortController();
-          readFile(path, { encoding: "utf-8", signal }, (err, data) =>
-            err ? cb(T.fail(O.some(err))) : cb(T.succeed(data))
-          );
-          return T.succeedWith(() => abort());
-        }
-      )
-    ),
-    T.chain((content) =>
-      pipe(
-        T.tryCatch(
-          () => JSON.parse(content) as unknown,
-          () => new Error("cannot parse")
-        ),
-        T.mapError(O.some)
-      )
-    ),
+    T.chain(flow(fs.readFile, T.asSomeError)),
+    T.chain(flow(Json.parse, T.asSomeError)),
+    T.mapError(unifyOption),
     T.optional
   );
 }
@@ -115,44 +76,29 @@ function loadLatestFrom(path: string) {
 pipe(
   T.do,
   T.let("dir", () => "./data/snapshots"),
-  T.bind("year", () => T.succeedWith(() => new Date().getUTCFullYear())),
+  T.bind("milliseconds", () => T.succeedWith(() => Date.now())),
+  T.bind("year", ({ milliseconds }) =>
+    T.succeedWith(() => new Date(milliseconds).getUTCFullYear().toString())
+  ),
+  T.let("filepath", ({ dir, milliseconds, year }) =>
+    join(dir, year.toString(), `${milliseconds}.json`)
+  ),
   T.bindAllPar(({ dir, year }) => ({
-    data: collectData(),
-    previous: loadLatestFrom(join(dir, year.toString())),
+    data: downloadData,
+    previous: loadLatestSnapshotFrom(join(dir, year)),
+    _: fs.mkdir(join(dir, year), { recursive: true }),
   })),
 
-  T.tap(({ dir, year }) =>
-    T.effectAsync((cb) =>
-      mkdir(join(dir, year.toString()), { recursive: true }, (err) =>
-        err ? cb(T.fail(err)) : cb(T.unit)
-      )
-    )
-  ),
-
-  T.chain(({ dir, year, data, previous }) => {
+  T.chain(({ filepath, data, previous }) => {
     if (O.isSome(previous) && isEqual(data, previous.value)) {
       return T.unit;
     }
 
     return pipe(
-      T.do,
-
-      T.bind("milliseconds", () => T.succeedWith(() => Date.now())),
-      T.let("filepath", ({ milliseconds }) =>
-        join(dir, year.toString(), `${milliseconds}.json`)
-      ),
-      T.bind("content", () => T.try(() => JSON.stringify(data))),
-      T.let("formatted", ({ filepath, content }) =>
-        prettier.format(content, { filepath })
-      ),
-
-      T.chain(({ filepath, formatted }) =>
-        T.effectAsync((cb) =>
-          writeFile(filepath, formatted, "utf-8", (err) =>
-            err ? cb(T.fail(err)) : cb(T.unit)
-          )
-        )
-      )
+      data,
+      Json.stringify,
+      T.map((content) => prettier.format(content, { filepath })),
+      T.chain((formatted) => fs.writeFile(filepath, formatted, "utf-8"))
     );
   }),
 

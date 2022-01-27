@@ -10,11 +10,11 @@ import { basename, join } from "path";
 import isEqual from "lodash.isequal";
 import prettier from "prettier";
 
-import { chainRec } from "@/src/bindings/chain-rec";
-import { fetch, responseToJson } from "@/src/bindings/fetch";
-import * as fs from "@/src/bindings/fs";
-import * as Json from "@/src/bindings/json";
-import { unifyOption } from "@/src/unify-option";
+import { chainRec } from "./bindings/chain-rec.js";
+import { fetch, responseToJson } from "./bindings/fetch.js";
+import * as fs from "./bindings/fs.js";
+import * as Json from "./bindings/json.js";
+import { unifyOption } from "./unify-option.js";
 
 const TROVE_PAGE_URL = (chunk_index: number) =>
   `https://www.humblebundle.com/api/v1/trove/chunk?property=popularity&direction=desc&index=${chunk_index}`;
@@ -24,7 +24,7 @@ class DataIsNotAnArrayError extends Tagged("data-is-not-an-array-error")<{
 }> {}
 
 const downloadData = chainRec(
-  ({ tuple: [idx, data] }: Tp.Tuple<[number, A.Array<unknown>]>) =>
+  ({ tuple: [idx, data] }: Tp.Tuple<[number, A.Array<Json.JsonData>]>) =>
     pipe(
       fetch(TROVE_PAGE_URL(idx)),
       T.chain(responseToJson),
@@ -73,6 +73,30 @@ function loadLatestSnapshotFrom(path: string) {
   );
 }
 
+function sortSnapshot(snapshot: A.Array<Json.JsonData>): typeof snapshot {
+  function formatJsonObject(object: Json.JsonData): Json.JsonData {
+    return Array.isArray(object)
+      ? A.map_(object, formatJsonObject)
+      : object === null ||
+        typeof object === "string" ||
+        typeof object === "number" ||
+        typeof object === "boolean"
+      ? object
+      : pipe(
+          Object.entries(object) as A.Array<[string, Json.JsonData]>,
+          A.map(([k, v]) => [k, formatJsonObject(v)] as const),
+          A.sort(Ord.contramap_(Ord.string, (x) => x[0])),
+          (x) => Object.fromEntries(x) as Json.JsonRecord
+        );
+  }
+
+  return pipe(
+    snapshot as A.Array<{ machine_name: string } & Json.JsonRecord>,
+    A.sort(Ord.contramap_(Ord.string, (x) => x.machine_name)),
+    A.map(formatJsonObject)
+  );
+}
+
 pipe(
   T.do,
   T.let("dir", () => "./data/snapshots"),
@@ -84,7 +108,7 @@ pipe(
     join(dir, year.toString(), `${milliseconds}.json`)
   ),
   T.bindAllPar(({ dir, year }) => ({
-    data: downloadData,
+    data: T.map_(downloadData, sortSnapshot),
     previous: loadLatestSnapshotFrom(join(dir, year)),
     _: fs.mkdir(join(dir, year), { recursive: true }),
   })),

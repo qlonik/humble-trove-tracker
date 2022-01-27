@@ -2,6 +2,8 @@ import fetch_, { RequestInfo, RequestInit, Response } from "node-fetch";
 import * as T from "@effect-ts/core/Effect";
 import { Tagged } from "@effect-ts/core/Case";
 
+import { JsonData } from "./json.js";
+
 export class FetchError extends Tagged("fetch-error")<{
   readonly error: unknown;
 }> {}
@@ -26,6 +28,6 @@ export class TransformationToJsonError extends Tagged(
 
 export const responseToJson = (req: Response) =>
   T.tryCatchPromise(
-    () => req.json(),
+    () => req.json() as Promise<JsonData>,
     (error) => TransformationToJsonError.make({ error })
   );

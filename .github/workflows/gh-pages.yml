@@ -1,0 +1,43 @@
+name: Build and deploy to github pages
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+
+      - name: Get npm cache directory path
+        id: npm-cache-dir-path
+        run: echo "::set-output name=dir::$(npm config get cache)"
+
+      - name: 💾 Cache npm
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.npm-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
+      - name: 💾 Cache Next.js
+        uses: actions/cache@v2
+        with:
+          path: ${{ github.workspace }}/.next/cache
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}
+
+      - run: npm ci
+
+      - name: 🔨 Build
+        run: npm run build:static
+        env:
+          NEXT_PUBLIC_BASE_PATH: /humble-trove-tracker
+
+      - name: 🚀 Deploy
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: gh-pages
+          folder: out

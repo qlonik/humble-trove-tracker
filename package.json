@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "create-snapshot": "node --loader ts-node/esm src/create-data-snapshot.ts",
+    "build:static": "next build && next export && touch out/.nojekyll",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

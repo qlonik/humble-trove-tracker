@@ -13,6 +13,7 @@ import {
 } from "@mui/material";
 import type { GetStaticProps } from "next";
 
+import { FlexBox } from "@/components/FlexBox";
 import type { GameSummary } from "@/src/summarize-data";
 import { dataSummary } from "@/src/summarize-data";
 
@@ -35,23 +36,16 @@ function CurrentAvailability({
   current: readonly [number, number | null];
 }) {
   return (
-    <Box sx={{ display: "flex", mb: 2 }}>
-      <Box
-        sx={{
-          mr: 1,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "end",
-        }}
-      >
+    <FlexBox sx={{ mb: 2 }}>
+      <FlexBox sx={{ mr: 1, flexDirection: "column", alignItems: "end" }}>
         <AvailabilityText>Available since</AvailabilityText>
         {end && <AvailabilityText>and until</AvailabilityText>}
-      </Box>
-      <Box sx={{ display: "flex", flexDirection: "column" }}>
+      </FlexBox>
+      <FlexBox sx={{ flexDirection: "column" }}>
         <AvailabilityText>{formatExistenceDate(start)}</AvailabilityText>
         {end && <AvailabilityText>{formatExistenceDate(end)}</AvailabilityText>}
-      </Box>
-    </Box>
+      </FlexBox>
+    </FlexBox>
   );
 }
 

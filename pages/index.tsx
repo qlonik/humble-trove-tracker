@@ -138,7 +138,7 @@ function GameSummaryGridItem({ game }: { game: GameSummary }) {
     <Card sx={{ minWidth: 250, maxWidth: 400 }}>
       <CardMedia
         component="img"
-        sx={{ height: "12rem", borderRadius: 2 }}
+        sx={{ borderRadius: 2 }}
         src={getGameImage(game)}
         alt={`thumbnail for "${game.name}" game`}
       />

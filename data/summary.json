@@ -204,7 +204,10 @@
   },
   {
     "name": "The Flame in the Flood",
-    "availability": [1580533200, 1625976000]
+    "availability": [1580533200, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "318600"
   },
   {
     "name": "Unparallel",
@@ -213,10 +216,19 @@
     "description_html": "<p><em>Unparallel</em> is a single-player game where a lab rat is trapped in a testing chamber set in an uncertain future. Otto, the main character, has to solve puzzles to escape making use of magic mirrors. Each mirror reveals hidden sections of the lab which provide clues on how to solve a room.&nbsp;</p>\n<p>The abstract level design of this world ensures the player focuses on the puzzles, while diving into an atmospheric setting given by its pixel art graphics, environmental storytelling and reactive soundtrack.</p>",
     "image_url": "https://hb.imgix.net/574e49081eb6900894695a0b093d954f08c5bc30.png?auto=compress,format&fit=crop&h=353&w=616&s=494c45e66edb1ee78e46192681b55a91"
   },
-  { "name": "Dear Esther", "availability": [1577854800, 1625976000] },
+  {
+    "name": "Dear Esther",
+    "availability": [1577854800, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "203810"
+  },
   {
     "name": "Race The Sun: Challenge Edition",
-    "availability": [1577854800, 1625976000]
+    "availability": [1577854800, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "253030"
   },
   {
     "name": "Arrog",
@@ -232,10 +244,19 @@
     "description_html": "Do you think you can reach that pool if you jump from your cozy apartment? This is surely the first question that comes to mind every time you enter the balcony of the great holiday hotel you are staying in and look at the pool, it's definitely close enough. But fear not, <em>Balconing Simulator 2020</em> offers you that enriching experience with practically no risks for your integrity, including perfect steps, stupid decisions, late night beverages and more importantly the fun of the magic moment in a super cinematic way.",
     "image_url": "https://hb.imgix.net/479b917825e8be09a522144728df4af11b33abec.png?auto=compress,format&fit=crop&h=353&w=616&s=a87c50387bee31669044c5415b5ebfbd"
   },
-  { "name": "Runestone Keeper", "availability": [1575176400, 1625976000] },
+  {
+    "name": "Runestone Keeper",
+    "availability": [1575176400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "339400"
+  },
   {
     "name": "The Whispered World Special Edition",
-    "availability": [1575176400, 1625976000]
+    "availability": [1575176400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "268540"
   },
   {
     "name": "Operator",
@@ -246,9 +267,18 @@
   },
   {
     "name": "Broken Sword 5 - the Serpent's Curse",
-    "availability": [1572580800, 1625976000]
+    "availability": [1572580800, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "262940"
   },
-  { "name": "Valhalla Hills", "availability": [1572580800, 1625976000] },
+  {
+    "name": "Valhalla Hills",
+    "availability": [1572580800, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "351910"
+  },
   {
     "name": "Roman Sands",
     "availability": [1570813200, 1643806333],
@@ -256,10 +286,19 @@
     "description_html": "The Sun is getting closer. Soon, it will consume everything. It may be one week, it may be two. No matter, just run along and fetch a new round of cocktails. Daiquiris.<br><br>A visual novel at the end of the world.",
     "image_url": "https://hb.imgix.net/9564c53b3420a840f807b2d6e21bf6b511c84fb6.png?auto=compress,format&fit=crop&h=353&w=616&s=4a355d535a8d57707d5ee2e43648ca39"
   },
-  { "name": "Blackguards", "availability": [1569902400, 1625976000] },
+  {
+    "name": "Blackguards",
+    "availability": [1569902400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "249650"
+  },
   {
     "name": "Broken Sword 4 - the Angel of Death",
-    "availability": [1569902400, 1625976000]
+    "availability": [1569902400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "316160"
   },
   {
     "name": "Shady Knight",
@@ -270,12 +309,24 @@
   },
   {
     "name": "Broken Sword 3 - the Sleeping Dragon",
-    "availability": [1567310400, 1625976000]
+    "availability": [1567310400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "33610"
   },
-  { "name": "Chaos on Deponia", "availability": [1567310400, 1625976000] },
+  {
+    "name": "Chaos on Deponia",
+    "availability": [1567310400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "220740"
+  },
   {
     "name": "DON'T GIVE UP: A Cynical Tale",
-    "availability": [1567310400, 1625976000]
+    "availability": [1567310400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "960710"
   },
   {
     "name": "DON'T GIVE UP",
@@ -284,14 +335,26 @@
     "description_html": "<p><strong>DON’T GIVE UP</strong>&nbsp;is a comedic RPG about a mentally ill game dev trying to find success in life who becomes wrapped up in the manifestations of his own inner demons. You'll delve into your subconscious in order to face darkness and an evil entity intent on unraveling your mind, all while fending off pizza bullies, social anxiety, and male pattern baldness!</p>",
     "image_url": "https://hb.imgix.net/4a4175a99c602ab3278c1821dbac2ddca7eda4fb.png?auto=compress,format&fit=crop&h=353&w=616&s=41b6f07ca3a61cd4df9d526a755750fa"
   },
-  { "name": "Anna's Quest", "availability": [1564632000, 1625976000] },
+  {
+    "name": "Anna's Quest",
+    "availability": [1564632000, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "327220"
+  },
   {
     "name": "Broken Sword 2 - the Smoking Mirror: Remastered",
-    "availability": [1564632000, 1625976000]
+    "availability": [1564632000, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "33600"
   },
   {
     "name": "Kind Words (lo fi chill beats to write to)",
-    "availability": [1564632000, 1625976000]
+    "availability": [1564632000, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "1070710"
   },
   {
     "name": "Kind Words",
@@ -302,9 +365,18 @@
   },
   {
     "name": "Broken Sword: Director's Cut",
-    "availability": [1561953600, 1625112000]
+    "availability": [1561953600, 1625112000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "57640"
   },
-  { "name": "Deponia", "availability": [1561953600, 1625112000] },
+  {
+    "name": "Deponia",
+    "availability": [1561953600, 1625112000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "220740"
+  },
   {
     "name": "macdows 95",
     "availability": [1560531600, 1643806333],
@@ -314,10 +386,25 @@
   },
   {
     "name": "Avadon 3 Hintbook and Bonuses",
-    "availability": [1559361600, 1622520000]
+    "availability": [1559361600, 1622520000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "518630"
   },
-  { "name": "Avadon 3: The Warborn", "availability": [1559361600, 1622520000] },
-  { "name": "MirrorMoon EP", "availability": [1559361600, 1622520000] },
+  {
+    "name": "Avadon 3: The Warborn",
+    "availability": [1559361600, 1622520000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "460780"
+  },
+  {
+    "name": "MirrorMoon EP",
+    "availability": [1559361600, 1622520000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "231310"
+  },
   {
     "name": "Once Upon A Crime In The West",
     "availability": [1557507600, 1643806333],
@@ -327,10 +414,25 @@
   },
   {
     "name": "Avadon 2: The Corruption",
-    "availability": [1556683200, 1619841600]
+    "availability": [1556683200, 1619841600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "233310"
   },
-  { "name": "FOTONICA", "availability": [1556683200, 1619841600] },
-  { "name": "Tokyo 42", "availability": [1556683200, 1619841600] },
+  {
+    "name": "FOTONICA",
+    "availability": [1556683200, 1619841600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "253290"
+  },
+  {
+    "name": "Tokyo 42",
+    "availability": [1556683200, 1619841600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "490450"
+  },
   {
     "name": "A Short Hike",
     "availability": [1555088400, 1643806333],
@@ -340,10 +442,25 @@
   },
   {
     "name": "Avadon: The Black Fortress",
-    "availability": [1554091200, 1619841600]
+    "availability": [1554091200, 1619841600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "112100"
   },
-  { "name": "Overture", "availability": [1554091200, 1619841600] },
-  { "name": "Wheels of Aurelia", "availability": [1554091200, 1619841600] },
+  {
+    "name": "Overture",
+    "availability": [1554091200, 1619841600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "343100"
+  },
+  {
+    "name": "Wheels of Aurelia",
+    "availability": [1554091200, 1619841600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "508740"
+  },
   {
     "name": "20 Minute Metropolis",
     "availability": [1552068000, 1643806333],
@@ -353,9 +470,18 @@
   },
   {
     "name": "SanctuaryRPG: Black Edition",
-    "availability": [1551416400, 1614574800]
+    "availability": [1551416400, 1614574800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "328760"
   },
-  { "name": "Tacoma", "availability": [1551416400, 1614574800] },
+  {
+    "name": "Tacoma",
+    "availability": [1551416400, 1614574800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "343860"
+  },
   {
     "name": "after HOURS",
     "availability": [1549648800, 1643806333],
@@ -363,8 +489,20 @@
     "description_html": "<p><span><em><span class=\"il\">after</span>&nbsp;<span class=\"il\">HOURS</span></em>&nbsp;is a vignette, FMV game, that allows players a glimpse into the life of Lilith Grey – a young woman who was molested as a child and suffers from Borderline Personality Disorder as a result. <br><br>By spending a night alone with Lilith in her bedroom and subsequently, her head, players learn Lilith’s story by adopting a double gaze: that of the player witnessing Lilith’s story and piecing together why she behaves and responds as she does and to an extent, the gaze of Lilith herself. <br><br>This is achieved by having access to the voices in her head and the thoughts that respond to those voices. Hand drawn animations over the film serve to provide a more tactile experience of the game.</span></p>",
     "image_url": "https://hb.imgix.net/6c16a58c70bbf6fa6a9891c92c68d49d6ba61d48.png?auto=compress,format&fit=crop&h=353&w=616&s=066213f2bad566b76edc3dd7f9b93a74"
   },
-  { "name": "Frozen Cortex", "availability": [1548997200, 1583038800] },
-  { "name": "Roombo: First Blood", "availability": [1548997200, 1625976000] },
+  {
+    "name": "Frozen Cortex",
+    "availability": [1548997200, 1583038800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "237350"
+  },
+  {
+    "name": "Roombo: First Blood",
+    "availability": [1548997200, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "1004610"
+  },
   {
     "name": "Roombo: First Blood (Justice Sucks)",
     "availability": [1547229600, 1643806333],
@@ -372,24 +510,69 @@
     "description_html": "<p><em>Roombo: First Blood</em> is a comedic, top-down, stealth-action game about being a robot vacuum cleaner and fending off burglars that have broken into your home. Hack smart-home gadgets like lights, doors and various appliances to set up traps, or improvised weapons from objects around the house. Hide under furniture, set your trajectory and plow into your enemies, knocking them over with such force that they go flying, then munch them up when they’re down.&nbsp;</p>\n<p>But make sure you don’t leave too much blood on the carpet, because you’ll need to make sure the house is clean before the family gets home. Only you can save Christmas and show these burglars that justice sucks.</p>",
     "image_url": "https://hb.imgix.net/3e8f2eb5370e0d45bc6b7cb64700b48b6d584bc4.png?auto=compress,format&fit=crop&h=353&w=616&s=c9b9d0f5de9d191daa1b2077d214cc88"
   },
-  { "name": "Cut & Run", "availability": [1546318800, 1583038800] },
-  { "name": "Super Meat Boy", "availability": [1546318800, 1583038800] },
+  {
+    "name": "Cut & Run",
+    "availability": [1546318800, 1583038800],
+    "ref_type": "developer",
+    "game_url": "https://www.simplemachine.co/game/cut-run/",
+    "thumbnail_url": "https://hb.imgix.net/b204edcc605ea06e76bee094aa6a2d825ca5eed5.png?auto=compress,format&s=b279e9a58eb1858de761e962e8220236"
+  },
+  {
+    "name": "Super Meat Boy",
+    "availability": [1546318800, 1583038800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "40800"
+  },
   {
     "name": "Epistory - Typing Chronicles",
-    "availability": [1543640400, 1606798800]
+    "availability": [1543640400, 1606798800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "398850"
   },
-  { "name": "Frozen Synapse", "availability": [1543640400, 1606798800] },
+  {
+    "name": "Frozen Synapse",
+    "availability": [1543640400, 1606798800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "98200"
+  },
   {
     "name": "Renowned Explorers: International Society Complete Edition",
-    "availability": [1543640400, 1606798800]
+    "availability": [1543640400, 1606798800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "296970"
   },
-  { "name": "vApe Escape", "availability": [1543640400, 1606798800] },
+  {
+    "name": "vApe Escape",
+    "availability": [1543640400, 1606798800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "1035890"
+  },
   {
     "name": "Orwell: Keeping an Eye On You",
-    "availability": [1541044800, 1604203200]
+    "availability": [1541044800, 1604203200],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "491950"
   },
-  { "name": "Reus", "availability": [1541044800, 1604203200] },
-  { "name": "Tumblestone", "availability": [1541044800, 1604203200] },
+  {
+    "name": "Reus",
+    "availability": [1541044800, 1604203200],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "222730"
+  },
+  {
+    "name": "Tumblestone",
+    "availability": [1541044800, 1604203200],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "269710"
+  },
   {
     "name": "Ollie & Bollie's Outdoor Estate",
     "availability": [1538758800, 1643806333],
@@ -397,10 +580,34 @@
     "description_html": "<span>Ollie and Bollie bought an estate! Cut trees, build a house or start a farm in this outdoor autumn sandbox. Work with your friend Bollie and restore your new property together!<br><br>DRM-free version does not support co-op mode.</span>",
     "image_url": "https://hb.imgix.net/d9c18714c28e23fe797c42c711779eb5c1eb7dab.jpg?auto=compress,format&fit=crop&h=353&w=616&s=29e31b3daeb35f04598d92128535c05c"
   },
-  { "name": "Dungeon Souls", "availability": [1538366400, 1601524800] },
-  { "name": "Gemini Rue", "availability": [1538366400, 1601524800] },
-  { "name": "Hacknet", "availability": [1538366400, 1601524800] },
-  { "name": "The Bridge", "availability": [1538366400, 1601524800] },
+  {
+    "name": "Dungeon Souls",
+    "availability": [1538366400, 1601524800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "383230"
+  },
+  {
+    "name": "Gemini Rue",
+    "availability": [1538366400, 1601524800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "80310"
+  },
+  {
+    "name": "Hacknet",
+    "availability": [1538366400, 1601524800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "365450"
+  },
+  {
+    "name": "The Bridge",
+    "availability": [1538366400, 1601524800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "204240"
+  },
   {
     "name": "ETHEREAL",
     "availability": [1536339600, 1643806333],
@@ -408,7 +615,13 @@
     "description_html": "ETHEREAL is full of hand-crafted navigation puzzles, where you have to find your way within an intricate and abstract level, using different kinds of mechanics that allows you to modify the environment or the direction of your character movement. Each corner of its world has been carefully designed to communicate without any text and expose a novel puzzle to solve without time pressure, evoking an introspective state of mind.<br><br>Developed by Nicolás Recabarren and Tomás Batista, from Nonsense Arts, an indie game studio from Argentina.",
     "image_url": "https://hb.imgix.net/b51d21bad18eadb99be160639e563063f9621ee2.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=73482c784c3efb046c72e5cf9b51500e"
   },
-  { "name": "SOMA", "availability": [1535774400, 1598932800] },
+  {
+    "name": "SOMA",
+    "availability": [1535774400, 1598932800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "282140"
+  },
   {
     "name": "Woten",
     "availability": [1533315600, 1643806333],
@@ -418,9 +631,18 @@
   },
   {
     "name": "Amnesia: A Machine for Pigs",
-    "availability": [1533096000, 1596254400]
+    "availability": [1533096000, 1596254400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "239200"
   },
-  { "name": "The Sexy Brutale", "availability": [1533096000, 1596254400] },
+  {
+    "name": "The Sexy Brutale",
+    "availability": [1533096000, 1596254400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "552590"
+  },
   {
     "name": "Stumblehill",
     "availability": [1530896400, 1643806333],
@@ -428,12 +650,27 @@
     "description_html": "<em>Stumblehill</em> is a platformer where you control a clumsy penguin, Ecki, on their quest to reach the top of a mountain. Guide Ecki through various beautiful environments, such as lush woods, sunlit meadows and dark caverns as they try to reach their goal. Ecki may fall over and stumble, adding an extra layer of trickiness to mastering the game, but allowing for impressive feats such as somersaults! This way the game adds an interesting twist to the otherwise classic platforming.<br><br>Graphics, Code & Design by Arvi Teikari<br>Audio by Anna Magdalino<br>Written by Lucy Green<br><br>This game was made using Multimedia Fusion 2 by Clickteam.",
     "image_url": "https://hb.imgix.net/2d2aa4bec773cc085a900051c69ef8e7f8c3964d.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e539e28c073c85b75105e249a81b044d"
   },
-  { "name": "Deadlight", "availability": [1530417600, 1593576000] },
+  {
+    "name": "Deadlight",
+    "availability": [1530417600, 1593576000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "211400"
+  },
   {
     "name": "Penumbra Collectors Pack",
-    "availability": [1530417600, 1593576000]
+    "availability": [1530417600, 1593576000],
+    "ref_type": "steam",
+    "steam_type": "sub",
+    "steam_id": "32031"
   },
-  { "name": "Satellite Reign", "availability": [1530417600, 1593576000] },
+  {
+    "name": "Satellite Reign",
+    "availability": [1530417600, 1593576000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "268870"
+  },
   {
     "name": "Subserial Network",
     "availability": [1527872400, 1643806333],
@@ -443,12 +680,24 @@
   },
   {
     "name": "STAR WARS™ - X-Wing Alliance™",
-    "availability": [1527825600, 1614574800]
+    "availability": [1527825600, 1614574800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "361670"
   },
-  { "name": "STAR WARS™ Rebellion", "availability": [1527825600, 1614574800] },
+  {
+    "name": "STAR WARS™ Rebellion",
+    "availability": [1527825600, 1614574800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "441550"
+  },
   {
     "name": "STAR WARS™ X-Wing vs TIE Fighter - Balance of Power Campaigns™",
-    "availability": [1527825600, 1614574800]
+    "availability": [1527825600, 1614574800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "361690"
   },
   {
     "name": "Knight Club",
@@ -457,11 +706,26 @@
     "description_html": "<em>KNIGHT CLUB</em><span><span>&nbsp;</span>is a 2-4 player action platform-fighting game that brings traditional fighting game elements into an unlocked, free form movement playstyle. Equip your favorite armaments and do battle against your friends locally or online!</span><br><br><span>Compete with your friends in classic Versus Mode, rumble for glory in Royalty, tussle for territory in King of the Hill, or get loose and pass the controller in Party Mode!</span><br><br><span>Choose from nine playable Knights such as the virtuous Penelope, the lovable idiot Horace, or the dexterous amphibian Gil!</span><br><br><span>Wield one of four different weapons, each with its own unique moveset and playstyle!</span><br><br><span>Traverse nine unique stages from the tops of ancient overgrown castle ruins, to the depths of a blistering volcano workshop!</span>",
     "image_url": "https://hb.imgix.net/f45b42956ca09b099e80c722e5ecf8094caaf1c0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e244dec48d15b5ac51068e06ce91b324"
   },
-  { "name": "140", "availability": [1525147200, 1588305600] },
-  { "name": "The Bard's Tale", "availability": [1525147200, 1588305600] },
+  {
+    "name": "140",
+    "availability": [1525147200, 1588305600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "282140"
+  },
+  {
+    "name": "The Bard's Tale",
+    "availability": [1525147200, 1588305600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "41900"
+  },
   {
     "name": "Wasteland 1 - The Original Classic",
-    "availability": [1525147200, 1588305600]
+    "availability": [1525147200, 1588305600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "259130"
   },
   {
     "name": "Lyric Sonata",
@@ -472,11 +736,18 @@
   },
   {
     "name": "Indiana Jones® and the Fate of Atlantis™",
-    "availability": [1522555200, 1614574800]
+    "availability": [1522555200, 1614574800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "6010"
   },
   {
     "name": "The Incredible Machine Mega Pack",
-    "availability": [1522555200, 1617249600]
+    "availability": [1522555200, 1617249600],
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Incredible_Machine_DOS_Cover.jpg",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Incredible_Machine_(video_game)",
+    "archive_url": "https://archive.org/details/the_incredible_machine_1992",
+    "gog_url": "https://www.gog.com/game/the_incredible_machine_mega_pack"
   },
   {
     "name": "Drawkanoid",
@@ -492,16 +763,40 @@
     "description_html": "<i>Fortune-499</i><span><span>&nbsp;</span>is a game about money and magic. You play a fortune teller working in the magical resources department of a large corporation. You engage in day-to-day office activities such as forwarding emails, attending meetings, fighting back hordes of monsters, and dealing with printer jams. With some tricky magic up your sleeve and your job on the line, it's up to you to build a future out of the hand you've been dealt.</span>",
     "image_url": "https://hb.imgix.net/6344457d23cf1cebd843b162aaae19b4a790bd0a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ae41845164ea6dc89d89f97d50cd69cd"
   },
-  { "name": "HitchHiker", "availability": [1517461200, 1625976000] },
-  { "name": "Torchlight", "availability": [1517461200, 1583038800] },
-  { "name": "Torchlight II", "availability": [1517461200, 1583038800] },
+  {
+    "name": "HitchHiker",
+    "availability": [1517461200, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "1003120"
+  },
+  {
+    "name": "Torchlight",
+    "availability": [1517461200, 1583038800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "41500"
+  },
+  {
+    "name": "Torchlight II",
+    "availability": [1517461200, 1583038800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "200710"
+  },
   {
     "name": "Fallen Enchantress: Legendary Heroes",
-    "availability": [1514782800, 1609477200]
+    "availability": [1514782800, 1609477200],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "228260"
   },
   {
     "name": "Galactic Civilizations® II: Ultimate Edition",
-    "availability": [1514782800, 1577854800]
+    "availability": [1514782800, 1577854800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "202200"
   },
   {
     "name": "Hitchhiker",
@@ -524,11 +819,41 @@
     "description_html": "<em>THOR.N</em> is a first person job simulator. It is your birthday. You wake up in your room and your guardian greets you with warmth and compassion. Today is the day that you get to leave this space that you have been isolated to your entire life. Today is the day that you can begin your journey to achieving citizenship. Today is the day that you contribute back to society.",
     "image_url": "https://hb.imgix.net/3cf11cb24dac9251e51afd7699c361ae40f4753e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0947e23f7cd3d1c67122c4171be9c011"
   },
-  { "name": "AI War Bundle (2014)", "availability": [1512104400, 1575176400] },
-  { "name": "Bionic Dues", "availability": [1512104400, 1575176400] },
-  { "name": "Overlord II", "availability": [1512104400, 1575176400] },
-  { "name": "Starward Rogue", "availability": [1512104400, 1575176400] },
-  { "name": "The Last Federation", "availability": [1512104400, 1575176400] },
+  {
+    "name": "AI War Bundle (2014)",
+    "availability": [1512104400, 1575176400],
+    "ref_type": "steam",
+    "steam_type": "sub",
+    "steam_id": "49306"
+  },
+  {
+    "name": "Bionic Dues",
+    "availability": [1512104400, 1575176400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "238910"
+  },
+  {
+    "name": "Overlord II",
+    "availability": [1512104400, 1575176400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "12810"
+  },
+  {
+    "name": "Starward Rogue",
+    "availability": [1512104400, 1575176400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "410820"
+  },
+  {
+    "name": "The Last Federation",
+    "availability": [1512104400, 1575176400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "273070"
+  },
   {
     "name": "Wilmot's Warehouse",
     "availability": [1509728400, 1643806333],
@@ -538,18 +863,60 @@
   },
   {
     "name": "Alan Wake's American Nightmare",
-    "availability": [1509508800, 1541044800]
+    "availability": [1509508800, 1541044800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "202750"
   },
   {
     "name": "Amnesia: The Dark Descent",
-    "availability": [1509508800, 1572580800]
+    "availability": [1509508800, 1572580800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "57300"
   },
-  { "name": "Gone Home", "availability": [1509508800, 1572580800] },
-  { "name": "LIMBO", "availability": [1509508800, 1572580800] },
-  { "name": "Overlord™", "availability": [1509508800, 1572580800] },
-  { "name": "Shadowrun Returns", "availability": [1509508800, 1538366400] },
-  { "name": "Teslagrad", "availability": [1509508800, 1572580800] },
-  { "name": "The End Is Nigh", "availability": [1509508800, 1572580800] },
+  {
+    "name": "Gone Home",
+    "availability": [1509508800, 1572580800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "232430"
+  },
+  {
+    "name": "LIMBO",
+    "availability": [1509508800, 1572580800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "48000"
+  },
+  {
+    "name": "Overlord™",
+    "availability": [1509508800, 1572580800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "11450"
+  },
+  {
+    "name": "Shadowrun Returns",
+    "availability": [1509508800, 1538366400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "234650"
+  },
+  {
+    "name": "Teslagrad",
+    "availability": [1509508800, 1572580800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "249590"
+  },
+  {
+    "name": "The End Is Nigh",
+    "availability": [1509508800, 1572580800],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "583470"
+  },
   {
     "name": "Getting Over It with Bennett Foddy",
     "availability": [1507330800, 1643806333],
@@ -557,7 +924,13 @@
     "description_html": "<span class=\"s1\">I created this game<br></span><span>For a certain kind of person</span><br><span>To hurt them</span>",
     "image_url": "https://hb.imgix.net/4eedb53ef2df1c29db8b9a5c48f4079ac678e49f.png?auto=compress,format&fit=crop&h=353&w=616&s=161c4e4852b12b37aa742cb939d79f3f"
   },
-  { "name": "Volantia", "availability": [1506830400, 1625976000] },
+  {
+    "name": "Volantia",
+    "availability": [1506830400, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "799670"
+  },
   {
     "name": "Quiet City",
     "availability": [1501887600, 1643806333],
@@ -588,20 +961,88 @@
   },
   {
     "name": "Cat Girl Without Salad",
-    "availability": [1498881600, 1569902400]
+    "availability": [1498881600, 1569902400],
+    "ref_type": "developer",
+    "game_url": "https://wayforward.com/games/cat-girl-without-salad-amuse-bouche/",
+    "thumbnail_url": "https://wayforward.com/wp-content/uploads/2016/07/CGWS_LrgThumb.jpg"
   },
-  { "name": "DISC ROOM", "availability": [1498881600, 1569902400] },
-  { "name": "Dustforce DX", "availability": [1498881600, 1569902400] },
-  { "name": "Oh, Deer!", "availability": [1498881600, 1572580800] },
-  { "name": "Shelter", "availability": [1498881600, 1569902400] },
-  { "name": "Starseed Pilgrim", "availability": [1498881600, 1530417600] },
-  { "name": "Strike Suit Zero", "availability": [1498881600, 1569902400] },
+  {
+    "name": "DISC ROOM",
+    "availability": [1498881600, 1569902400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "1229580",
+    "game_url": "https://www.discroom.com/",
+    "itch_io_url": "https://devolverdigital.itch.io/disc-room"
+  },
+  {
+    "name": "Dustforce DX",
+    "availability": [1498881600, 1569902400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "65300"
+  },
+  {
+    "name": "Oh, Deer!",
+    "availability": [1498881600, 1572580800],
+    "game_url": "https://necrosoftgames.com/ohdeer/",
+    "thumbnail_url": "https://n.insertcred.it/2021/12/ohdeer-title.png",
+    "srcset": [
+      "https://n.insertcred.it/2021/12/ohdeer-title.png 400w",
+      "https://n.insertcred.it/2021/12/ohdeer-title.png 750w",
+      "https://n.insertcred.it/2021/12/ohdeer-title.png 960w",
+      "https://n.insertcred.it/2021/12/ohdeer-title.png 1140w"
+    ],
+    "srcsetsizes": [
+      "(min-width: 1256px) calc((1130px - 60px) / 3)",
+      "(min-width: 992px) calc((90vw - 60px) / 3)",
+      "(min-width: 768px) calc((90vw - 30px) / 2)",
+      "90vw"
+    ],
+    "thumbnail_img_tag": "<img class=\"u-object-fit\" srcset=\"https://n.insertcred.it/2021/12/ohdeer-title.png 400w,\nhttps://n.insertcred.it/2021/12/ohdeer-title.png 750w,\nhttps://n.insertcred.it/2021/12/ohdeer-title.png 960w,\nhttps://n.insertcred.it/2021/12/ohdeer-title.png 1140w\" sizes=\"(min-width: 1256px) calc((1130px - 60px) / 3), (min-width: 992px) calc((90vw - 60px) / 3), (min-width: 768px) calc((90vw - 30px) / 2), 90vw\" src=\"https://n.insertcred.it/2021/12/ohdeer-title.png\" alt=\"Oh, Deer!\" loading=\"lazy\" />"
+  },
+  {
+    "name": "Shelter",
+    "availability": [1498881600, 1569902400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "244710"
+  },
+  {
+    "name": "Starseed Pilgrim",
+    "availability": [1498881600, 1530417600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "230980"
+  },
+  {
+    "name": "Strike Suit Zero",
+    "availability": [1498881600, 1569902400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "209540"
+  },
   {
     "name": "Trine Enchanted Edition",
-    "availability": [1498881600, 1617249600]
+    "availability": [1498881600, 1617249600],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "35700"
   },
-  { "name": "Uurnog Uurnlimited", "availability": [1498881600, 1625976000] },
-  { "name": "Volgarr the Viking", "availability": [1498881600, 1569902400] },
+  {
+    "name": "Uurnog Uurnlimited",
+    "availability": [1498881600, 1625976000],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "678850"
+  },
+  {
+    "name": "Volgarr the Viking",
+    "availability": [1498881600, 1569902400],
+    "ref_type": "steam",
+    "steam_type": "app",
+    "steam_id": "247240"
+  },
   {
     "name": "Copoka",
     "availability": [1497312976, 1643806333],

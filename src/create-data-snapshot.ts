@@ -17,7 +17,7 @@ import * as Json from "./bindings/json.js";
 import { unifyOption } from "./unify-option.js";
 
 const TROVE_PAGE_URL = (chunk_index: number) =>
-  `https://www.humblebundle.com/api/v1/trove/chunk?property=popularity&direction=desc&index=${chunk_index}`;
+  `https://www.humblebundle.com/client/catalog?index=${chunk_index}`;
 
 class DataIsNotAnArrayError extends Tagged("data-is-not-an-array-error")<{
   readonly result: unknown;

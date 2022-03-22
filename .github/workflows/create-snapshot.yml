@@ -36,6 +36,6 @@ jobs:
       - name: Commit and push generated snapshot
         uses: EndBug/add-and-commit@v7
         with:
-          add: 'data/snapshots'
+          add: 'data/snapshot.json'
           default_author: github_actions
-          message: "feat(data): create latest snapshot"
+          message: "feat(data): update latest snapshot"

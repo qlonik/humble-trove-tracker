@@ -6,7 +6,6 @@ import * as E from "@effect-ts/core/Either";
 import * as O from "@effect-ts/core/Option";
 import * as Ord from "@effect-ts/core/Ord";
 import { flow, identity, pipe } from "@effect-ts/system/Function";
-import { basename, join } from "path";
 import isEqual from "lodash.isequal";
 import prettier from "prettier";
 
@@ -41,37 +40,13 @@ const downloadData = chainRec(
     )
 )(Tp.tuple(0, []));
 
-function loadLatestSnapshotFrom(path: string) {
-  return pipe(
-    fs.readdir(path, { withFileTypes: true }),
-    T.map(
-      flow(
-        A.collect((file) =>
-          file.isFile() && file.name.endsWith(".json")
-            ? O.some(basename(file.name, ".json"))
-            : O.none
-        ),
-        A.sort(
-          Ord.contramap_(
-            Ord.number,
-            flow(parseInt, (parsed) => (Number.isInteger(parsed) ? parsed : -1))
-          )
-        ),
-        A.last
-      )
-    ),
-    T.catchAll((err) =>
-      err.code === "ENOENT" ? T.succeed(O.none) : T.fail(err)
-    ),
-    T.asSomeError,
-    T.chain(T.fromOption),
-    T.map((id) => join(path, `${id}.json`)),
-    T.chain(flow(fs.readFile, T.asSomeError)),
-    T.chain(flow(Json.parse, T.asSomeError)),
-    T.mapError(unifyOption),
-    T.optional
-  );
-}
+const loadSnapshot = flow(
+  fs.readFile,
+  T.mapError(O.fromPredicate((err) => err.code !== "ENOENT")),
+  T.chain(flow(Json.parse, T.asSomeError)),
+  T.mapError(unifyOption),
+  T.optional
+);
 
 function sortSnapshot(snapshot: A.Array<Json.JsonData>): typeof snapshot {
   function formatJsonObject(object: Json.JsonData): Json.JsonData {
@@ -99,18 +74,10 @@ function sortSnapshot(snapshot: A.Array<Json.JsonData>): typeof snapshot {
 
 pipe(
   T.do,
-  T.let("dir", () => "./data/snapshots"),
-  T.bind("milliseconds", () => T.succeedWith(() => Date.now())),
-  T.bind("year", ({ milliseconds }) =>
-    T.succeedWith(() => new Date(milliseconds).getUTCFullYear().toString())
-  ),
-  T.let("filepath", ({ dir, milliseconds, year }) =>
-    join(dir, year.toString(), `${milliseconds}.json`)
-  ),
-  T.bindAllPar(({ dir, year }) => ({
+  T.let("filepath", () => "./data/snapshot.json"),
+  T.bindAllPar(({ filepath }) => ({
     data: T.map_(downloadData, sortSnapshot),
-    previous: loadLatestSnapshotFrom(join(dir, year)),
-    _: fs.mkdir(join(dir, year), { recursive: true }),
+    previous: loadSnapshot(filepath),
   })),
 
   T.chain(({ filepath, data, previous }) => {

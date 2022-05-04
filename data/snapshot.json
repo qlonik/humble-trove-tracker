@@ -141,7 +141,7 @@
     "logo": null,
     "machine_name": "20minutemetropolis_trove",
     "marketing-blurb": "<p>Centuries after a nuclear war, you're charged with rebuilding civilization. It's your job to create a functioning city in 20 years (that's 20 minutes realtime!). Begin by laying roads to bring food to your people, then build apartments to give them somewhere to live. Extend your reach by cutting through forest and—oops, your apartments have filled up with waste, so you'll have to build a landfill. Where was I? Cut through forest to get to ancient skyscrapers, which you'll mine for metals and plastics—you're an ace recycler! Oops, your people have deforested the area. Expand! Set up a water turbine and energy transmitters. And some parks! Now you're cooking. Build a dozen high rises and more parks. Aaand you're out of time. How'd you do? You beat your high score! Now, how can you top it?</p>",
-    "popularity": 1,
+    "popularity": 2,
     "publishers": null,
     "trove-showcase-css": null,
     "trove_category": "general",
@@ -546,7 +546,7 @@
     "logo": null,
     "machine_name": "archvale_collection",
     "marketing-blurb": "A malicious and cruel king once ruled the land and terrorized all who faced him. He along with the fabled arch to <i>Archvale</i> have become the fodder for ghost stories and passed down myths. All that remains of him are the Undying; beings whom the king cursed with immortality to live out their eternity in his prisons.\n<br>\n<br>\nYou and you alone can defeat the Undying and rid the world from the dark shadow the king has left. Journey across diverse regions, looting and crafting your way to better weapons and equipment. Through these upgrades you will be able to succeed against the host of enemies that await you and stand between you and the truth about the said-to-be-mythic arch to <i>Archvale</i>.\n<br>\n<br>\n<strong>\n Key Features:\n</strong>\n<br>\n<br>\n<ul>\n <li>\n  <strong>\n   Play Your Way.\n  </strong>\n  Augment your character via badges, allowing you to create a build that suits your playstyle.\n  <br>\n </li>\n <li>\n  <strong>\n   Mastery is Key.\n  </strong>\n  Skill-based bullet hell combat will put your weapons of choice to the test and require precision and speed to succeed.\n  <br>\n </li>\n <li>\n  <strong>\n   Build Your Arsenal.\n  </strong>\n  Craft over 200 weapons and armor using items gathered from the environment and from slaying enemies.\n  <br>\n </li>\n <li>\n  <strong>\n   Explore the World.\n  </strong>\n  A host of enemies across diverse environments and classic-inspired dungeons will take you across an ever changing map where you will find unique resources needed to complete your journey.\n  <br>\n </li>\n <li>\n  <strong>\n   Discover the Truth.\n  </strong>\n  Uncover the dark lore of the world on your quest to unearth the arch to the fabled world of <i>Archvale</i>.\n </li>\n</ul>",
-    "popularity": 1,
+    "popularity": 2,
     "publishers": [{ "publisher-name": "Humble Games" }],
     "trove-showcase-css": null,
     "trove_category": "premium",
@@ -1454,6 +1454,107 @@
     "carousel-content": {
       "asm-demo-machine-name": [],
       "screenshot": [
+        "https://hb.imgix.net/f6749afd36c9c6a572282a98534fe491a75233ce.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=d997dc10d839c4eb30eb0d1a6a920d20",
+        "https://hb.imgix.net/f9bb2bbe3390d8cafeca6cd8c48e164768265652.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=ba11405fdbbb3933f95cc47b6a40f13f",
+        "https://hb.imgix.net/54db06ab687784f9f120d4d072f89cc13529acbe.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=a0c7a1b1d5560bb7202875767b4b17d7",
+        "https://hb.imgix.net/afbacdfb3d0be80bf64c45329434b850f05ad505.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=29b6d2df2881a20ada4dced0b1e8f1a7",
+        "https://hb.imgix.net/6c02f424aaafad7724c1162d5135b6dd78cbe703.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=a656302bbd29d1ac911c5f5d49e2fc3e",
+        "https://hb.imgix.net/586e8318a1bb085fdcfe7614f57cc0d2292ba41e.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=45c0f0df745e1cb170a2dbf0ad3de84c",
+        "https://hb.imgix.net/16349133f8cb2cf3bc5306649bd45b612184d90b.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=b1d8fdd3fc94b40376fa8e92ed1fd393",
+        "https://hb.imgix.net/4dcdb5f181d24767a6bfaeac79073f2fe635fd3a.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=b005a92b826c9bd9a1381728cf1f6476",
+        "https://hb.imgix.net/250d48d2283461477c760923358a13a6ea795421.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=315c52562d9100790ba603ee83d96cd6",
+        "https://hb.imgix.net/d5ec1ac70f1bc7d54e5d17f7900b13601b4f4bf0.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=6f4c092bd518c1a6cffb309e71f49808",
+        "https://hb.imgix.net/e61faeeb952addd65cf536a60a93561fe69fc03b.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=ac8838490696974e6403e999d655b755",
+        "https://hb.imgix.net/3c9b85eb6b8ce70861322ef1755598a685c9b0db.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=1514af8113af6a3bcbf9958ca7ad6974",
+        "https://hb.imgix.net/e0be8a5a2dc056f0e57bf12088eefc810c7015c4.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=33c41036faef7edf1c6c68765171c615",
+        "https://hb.imgix.net/c794926b7bc65b65c07f3c03a5c0b2cf9401bd5c.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=1e1188821bc8193242277e8504a5e7b2",
+        "https://hb.imgix.net/d4a4b716bb01c07bacf01bceefa5d860a0dc8f4b.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=7305258c13591f733dbc9e8676ad4f8d",
+        "https://hb.imgix.net/dbe359a830c3155538b864550d90cbab55936c8e.jpeg?auto=compress,format&fit=crop&h=314&w=570&s=5470d85d31d387328bba36110351d475"
+      ],
+      "thumbnail": [
+        "https://hb.imgix.net/f6749afd36c9c6a572282a98534fe491a75233ce.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=fc26f982a4bae34473ea19dc5593fff0",
+        "https://hb.imgix.net/f9bb2bbe3390d8cafeca6cd8c48e164768265652.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=cd32d0cc8162190de7a49450c01266b3",
+        "https://hb.imgix.net/54db06ab687784f9f120d4d072f89cc13529acbe.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=249a4d095379a6f85289d6f87290518b",
+        "https://hb.imgix.net/afbacdfb3d0be80bf64c45329434b850f05ad505.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=b59bc51f2313fc329756d106816a7476",
+        "https://hb.imgix.net/6c02f424aaafad7724c1162d5135b6dd78cbe703.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=1a752c244ece1612b2e8ec1ad50caff1",
+        "https://hb.imgix.net/586e8318a1bb085fdcfe7614f57cc0d2292ba41e.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=e11a2592653627132150dac13feac879",
+        "https://hb.imgix.net/16349133f8cb2cf3bc5306649bd45b612184d90b.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=ca82c315f3adca220c5ad9b62e47b4bd",
+        "https://hb.imgix.net/4dcdb5f181d24767a6bfaeac79073f2fe635fd3a.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=b2f8a7507f940ad689bb7d5f9064cff6",
+        "https://hb.imgix.net/250d48d2283461477c760923358a13a6ea795421.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=13744715c0c90a7f3d97d0f304e09825",
+        "https://hb.imgix.net/d5ec1ac70f1bc7d54e5d17f7900b13601b4f4bf0.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=a67ab4cf0746cc667efabca236802200",
+        "https://hb.imgix.net/e61faeeb952addd65cf536a60a93561fe69fc03b.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=2803854bae4aa4ac13e95f67765ce239",
+        "https://hb.imgix.net/3c9b85eb6b8ce70861322ef1755598a685c9b0db.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=6df8b7889c52fa2a93d1212f14ee4951",
+        "https://hb.imgix.net/e0be8a5a2dc056f0e57bf12088eefc810c7015c4.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=ecdb00fa38dfa41b77446875959135b3",
+        "https://hb.imgix.net/c794926b7bc65b65c07f3c03a5c0b2cf9401bd5c.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=81acbabb696681cef7a43fc9ba18079b",
+        "https://hb.imgix.net/d4a4b716bb01c07bacf01bceefa5d860a0dc8f4b.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=cd6d66c97af04576f09d1d425a8a6df8",
+        "https://hb.imgix.net/dbe359a830c3155538b864550d90cbab55936c8e.jpeg?auto=compress,format&fit=crop&h=59&w=105&s=4e6a0b0c0d173b77f860ed95650ccd72"
+      ],
+      "youtube-link": ["94_oIzKeyV8", "cmwFRlxMhW0", "hU9kBEyKEMk"]
+    },
+    "date-added": 1651597200,
+    "date-ended": null,
+    "description-text": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/873940/extras/steam-cutscene.png?t=1593561445\"> <strong> <br><br>When FTL meets Foundation... and Dune </strong> <br><br><i>Crying Suns</i> is a <strong> tactical rogue-lite </strong> that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire. <br><br>In this <strong> story rich experience </strong> inspired by <strong> Dune </strong> and <strong> Foundation </strong> , each successful run will uncover the truth about the Empire... and yourself as well. <strong> <br><br>Main Features </strong> <br><br>- <strong> Space exploration </strong> in a procedurally-generated universe <br>- <strong> Tactical fights </strong> between battleships and their squadron fleets <br>- More than <strong> 300 possible story events </strong> <br>- A deep and dramatic storyline structured in <strong> 6 chapters </strong> <br>- <strong> A dark and disturbing atmosphere </strong> inspired by our favorite S-F universes (Foundation, Dune, Battlestar Galactica) <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/873940/extras/new-fight.png?t=1593561445\"> <strong> <br><br>The story: The epic journey of a clone </strong> <br><br>After 700 years of peace and prosperity, <strong> the Galactic Empire has suddenly been shattered into pieces </strong> . The <strong> OMNIs </strong> , god-like machines which did everything for their human masters, have mysteriously shut down. And humankind, having long since lost the ability to survive on its own, is dangerously close to extinction. But somewhere in a far corner of the Galaxy is Gehenna, a planet of ice and rock and a top-secret facility that is the pinnacle of Imperial Tech and also humanity’s last chance. <br><br><strong> You are a clone of Admiral Ellys Idaho </strong> , a weapon fashioned from flesh, the best Imperial Admiral ever to battle in the stars and you have just been awoken on this planet by its strange and darkly-humorous Guardian, Kaliban, the last functional OMNI to exist. <br><br>Your mission: skillfully command a battleship through the Empire's now chaotic, violent clusters ––where one wrong move could be your last–– as you <strong> try to reactivate the OMNIs </strong> and <strong> save the future of all humankind </strong> . But you must leave Gehenna now.... for time has almost run out. <strong> <br><br>Platforms </strong> <br><span>Crying Suns is available on PC and Mac.</span><br><span>You can also get it on your tablet and smartphone on the </span><a href=\"https://apps.apple.com/us/app/crying-suns/id1511788295\" rel=\"noopener\" target=\"_blank\"><b>Apple AppStore here</b></a><span>.</span><br><span>Or on the </span><a href=\"https://play.google.com/store/apps/details?id=com.altshift.cryingsuns&amp;hl=fr&amp;gl=US\" rel=\"noopener\" target=\"_blank\"><b>Google Play Store here</b></a><span>.</span><br><br><img height=\"106\" src=\"https://hb.imgix.net/f283955a8087471f6f5c5fd24bbf4d000aa702b3.png?auto=compress,format&amp;s=bcb151aa45a7babef9cbb7f1def7d713\" width=\"620\">",
+    "developers": [
+      {
+        "developer-name": "Alt Shift",
+        "developer-url": "http://www.cryingsuns.com/"
+      }
+    ],
+    "downloads": {
+      "windows": {
+        "build_version": 1,
+        "builds": [
+          {
+            "build_version": 1,
+            "download_file_size": 433796143,
+            "executable_path": "cs.exe",
+            "filename": "altshift-cryingsuns-windows-rc-normal-win64-humble-5.zip",
+            "installed_file_size": 1051835225,
+            "signature_file": "cryingsuns_windows_1.sig"
+          }
+        ],
+        "file_size": 433796143,
+        "machine_name": "cryingsuns_windows",
+        "md5": "11c27333d9a6a1b4370528ca63bb60eb",
+        "name": "Download",
+        "size": "413.7 MB",
+        "small": 0,
+        "uploaded_at": 1637100936138,
+        "url": {
+          "bittorrent": "altshift-cryingsuns-windows-rc-normal-win64-humble-5.zip.torrent",
+          "web": "altshift-cryingsuns-windows-rc-normal-win64-humble-5.zip"
+        }
+      }
+    },
+    "hero-background-image": null,
+    "hero-character-image": null,
+    "hero-game-logo": null,
+    "hero-marketing-blurb": null,
+    "human-name": "Crying Suns",
+    "humble-original": null,
+    "image": "https://hb.imgix.net/a9667af773f6be2052c0bbd07730d7642ef8f330.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=4a042c5cc1d6746e5a33e282b19cb5a8",
+    "is-client-hero": null,
+    "logo": null,
+    "machine_name": "cryingsuns_collection",
+    "marketing-blurb": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/873940/extras/steam-cutscene.png?t=1593561445\"> <strong> <br><br>When FTL meets Foundation... and Dune </strong> <br><br><i>Crying Suns</i> is a <strong> tactical rogue-lite </strong> that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire. <br><br>In this <strong> story rich experience </strong> inspired by <strong> Dune </strong> and <strong> Foundation </strong> , each successful run will uncover the truth about the Empire... and yourself as well. <strong> <br><br>Main Features </strong> <br><br>- <strong> Space exploration </strong> in a procedurally-generated universe <br>- <strong> Tactical fights </strong> between battleships and their squadron fleets <br>- More than <strong> 300 possible story events </strong> <br>- A deep and dramatic storyline structured in <strong> 6 chapters </strong> <br>- <strong> A dark and disturbing atmosphere </strong> inspired by our favorite S-F universes (Foundation, Dune, Battlestar Galactica) <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/873940/extras/new-fight.png?t=1593561445\"> <strong> <br><br>The story: The epic journey of a clone </strong> <br><br>After 700 years of peace and prosperity, <strong> the Galactic Empire has suddenly been shattered into pieces </strong> . The <strong> OMNIs </strong> , god-like machines which did everything for their human masters, have mysteriously shut down. And humankind, having long since lost the ability to survive on its own, is dangerously close to extinction. But somewhere in a far corner of the Galaxy is Gehenna, a planet of ice and rock and a top-secret facility that is the pinnacle of Imperial Tech and also humanity’s last chance. <br><br><strong> You are a clone of Admiral Ellys Idaho </strong> , a weapon fashioned from flesh, the best Imperial Admiral ever to battle in the stars and you have just been awoken on this planet by its strange and darkly-humorous Guardian, Kaliban, the last functional OMNI to exist. <br><br>Your mission: skillfully command a battleship through the Empire's now chaotic, violent clusters ––where one wrong move could be your last–– as you <strong> try to reactivate the OMNIs </strong> and <strong> save the future of all humankind </strong> . But you must leave Gehenna now.... for time has almost run out. <strong> <br><br>Platforms </strong> <br><span>Crying Suns is available on PC and Mac.</span><br><span>You can also get it on your tablet and smartphone on the </span><a href=\"https://apps.apple.com/us/app/crying-suns/id1511788295\" rel=\"noopener\" target=\"_blank\"><b>Apple AppStore here</b></a><span>.</span><br><span>Or on the </span><a href=\"https://play.google.com/store/apps/details?id=com.altshift.cryingsuns&amp;hl=fr&amp;gl=US\" rel=\"noopener\" target=\"_blank\"><b>Google Play Store here</b></a><span>.</span><br><br><img height=\"106\" src=\"https://hb.imgix.net/f283955a8087471f6f5c5fd24bbf4d000aa702b3.png?auto=compress,format&amp;s=bcb151aa45a7babef9cbb7f1def7d713\" width=\"620\">",
+    "popularity": 0,
+    "publishers": [
+      {
+        "publisher-name": "Humble Games",
+        "publisher-url": "https://www.humblegames.com/"
+      }
+    ],
+    "trove-showcase-css": null,
+    "trove_category": "premium",
+    "youtube-link": null
+  },
+  {
+    "all-access": false,
+    "background-color": null,
+    "background-image": null,
+    "carousel-content": {
+      "asm-demo-machine-name": [],
+      "screenshot": [
         "https://hb.imgix.net/e1a6f3ae9f4d9d51fde4aff0a72d60e3bde58590.jpg?auto=compress,format&fit=crop&h=314&w=570&s=d3bde114c1e02875c0d069575309cbd3",
         "https://hb.imgix.net/7221aee8e588cf3d3508993c5253eed3aa08e466.jpg?auto=compress,format&fit=crop&h=314&w=570&s=a934a95a6d09c4e4ad3cdfd8bcb6c716",
         "https://hb.imgix.net/e7eb85aea90aaf33677000c63d572dc199e434f7.jpg?auto=compress,format&fit=crop&h=314&w=570&s=51e4da8af9187707f133d65e7624faff",
@@ -2035,7 +2136,7 @@
     "logo": null,
     "machine_name": "faetactics_collection",
     "marketing-blurb": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/995980/extras/Steam_Section_-_Logo.png?t=1595878387\"><br><span>In Fae Tactics, follow a young magic user named Peony on her journey across a vibrant world full of mystery and danger. Summon allies, cast spells, and befriend a motley crew of characters as you dive into the growing conflicts between man and magical beings known as fae.</span><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/995980/extras/Main.png?t=1595878387\"><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/995980/extras/Steam_Section_-_Story.png?t=1595878387\"><br><span>Long ago the world of magic was separated from the natural world by Elemental Gates. One day the seal on the gates was broken, flooding the natural world with magical fae creatures once thought to be myths. The worlds merging was imperfect and much of the land was torn apart. The devastation claimed the lives of most of the population of natural and fae creatures alike. Those that survived have forged new lives in the ruins of the old worlds, but growing tension between man and fae threaten to finish what began with the opening of the gates.</span><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/995980/extras/Header.png?t=1595878387\"><br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/995980/extras/Steam_Section_-_Features.png?t=1595878387\"><br>\n<ul>\n<li>Unique menuless turn based tactical gameplay.</li>\n<li>Manage the magical elements of your party to counter the enemies elements.</li>\n<li>Befriend a colorful cast of allies! Level Up and customize their abilities.</li>\n<li>Battle all kinds of Fae creatures and collect them into your team.</li>\n<li>Find powerful and unique Spells to help tip the scales in your favor.</li>\n<li>Traverse a variety of colorfully detailed environments in this isometric wonderland.</li>\n<li>Unravel secrets as you explore the various conflicts in the world in any order you want!</li>\n</ul>\n<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/995980/extras/Footer.png?t=1595878387\">",
-    "popularity": 0,
+    "popularity": 1,
     "publishers": [{ "publisher-name": "Humble Games" }],
     "trove-showcase-css": null,
     "trove_category": "premium",
@@ -2900,6 +3001,84 @@
     "publishers": null,
     "trove-showcase-css": null,
     "trove_category": "general",
+    "youtube-link": null
+  },
+  {
+    "all-access": false,
+    "background-color": null,
+    "background-image": null,
+    "carousel-content": {
+      "asm-demo-machine-name": [],
+      "screenshot": [
+        "https://hb.imgix.net/244d42e4eed84c0d5e1413914cb6bef2911d3300.png?auto=compress,format&fit=crop&h=314&w=570&s=8972d74a676b235e48a4af3149832f7a",
+        "https://hb.imgix.net/2534cbd4a7a770b5202ad48d46a580cf1789f6df.png?auto=compress,format&fit=crop&h=314&w=570&s=a22a23d39118a3d6ba036d2a2497ef05",
+        "https://hb.imgix.net/fc1c61c20d700154a3ddc7d5d15732ce62f88a57.png?auto=compress,format&fit=crop&h=314&w=570&s=4b3e8eca1d3c879180ed71659b604edc",
+        "https://hb.imgix.net/6ab25e430d7468f44c2a3b7765786ee49fedbfdc.png?auto=compress,format&fit=crop&h=314&w=570&s=18589ea6dc13499d2f2cf61a1ce7f4fc",
+        "https://hb.imgix.net/9392c385f713f7d7604589159887bb38de9708cd.png?auto=compress,format&fit=crop&h=314&w=570&s=21356c9322b3cbc4cede6a5acacd2f5b",
+        "https://hb.imgix.net/9fac9f79aeaf8dca1bd86e4081fa168cfebed818.png?auto=compress,format&fit=crop&h=314&w=570&s=11d73f1117fd8ed972aa0c7c34e1185c",
+        "https://hb.imgix.net/c1b987fc3e07f55be08977d07649a28c398f5655.png?auto=compress,format&fit=crop&h=314&w=570&s=657ac545f2972eb8a56198e94aa76232",
+        "https://hb.imgix.net/b5424222e611b66b354e611d616d0ee202d2109b.png?auto=compress,format&fit=crop&h=314&w=570&s=d09e70631fcb8d8fde3e7f5c6dab60c6",
+        "https://hb.imgix.net/a61b6b3cd0ce449d3aca9fb840a9c0db732c404e.png?auto=compress,format&fit=crop&h=314&w=570&s=404e78b511bf112f2c0ebc019f99b68f"
+      ],
+      "thumbnail": [
+        "https://hb.imgix.net/244d42e4eed84c0d5e1413914cb6bef2911d3300.png?auto=compress,format&fit=crop&h=59&w=105&s=eabbc219fcb520d1d75ec3623ddc11e1",
+        "https://hb.imgix.net/2534cbd4a7a770b5202ad48d46a580cf1789f6df.png?auto=compress,format&fit=crop&h=59&w=105&s=46d4dcc0cbc5054f362d3b83db0f004b",
+        "https://hb.imgix.net/fc1c61c20d700154a3ddc7d5d15732ce62f88a57.png?auto=compress,format&fit=crop&h=59&w=105&s=af4a4ae1108153b6cc9ee6130a2748e7",
+        "https://hb.imgix.net/6ab25e430d7468f44c2a3b7765786ee49fedbfdc.png?auto=compress,format&fit=crop&h=59&w=105&s=3ca539321dc37f3ccb8bfb796886b54f",
+        "https://hb.imgix.net/9392c385f713f7d7604589159887bb38de9708cd.png?auto=compress,format&fit=crop&h=59&w=105&s=d94bacd1eeabdce177178fc301891599",
+        "https://hb.imgix.net/9fac9f79aeaf8dca1bd86e4081fa168cfebed818.png?auto=compress,format&fit=crop&h=59&w=105&s=5a979f66f98de3989e196225a92e8e25",
+        "https://hb.imgix.net/c1b987fc3e07f55be08977d07649a28c398f5655.png?auto=compress,format&fit=crop&h=59&w=105&s=f12b83e738765907e57aa28835cf90ed",
+        "https://hb.imgix.net/b5424222e611b66b354e611d616d0ee202d2109b.png?auto=compress,format&fit=crop&h=59&w=105&s=63fc8b6fc0ab223dc116aec149c00d9b",
+        "https://hb.imgix.net/a61b6b3cd0ce449d3aca9fb840a9c0db732c404e.png?auto=compress,format&fit=crop&h=59&w=105&s=a9f6440980026b6cac5aa5d4d8c89899"
+      ],
+      "youtube-link": ["VL33PBQz9aw", "N_Blaw32W1E"]
+    },
+    "date-added": 1651597200,
+    "date-ended": null,
+    "description-text": "As members of a family of lore-hunting mystics, you and your cousin Luridia separately wander the land following rumors of occult power. After discovering a demonic pit in a nearby village, Luridia’s once prolific letters grow silent. <br><br>Something has gone terribly wrong. <br><br>Now it is up to you to journey to the desolate hamlet under dark eldritch skies. What did Luridia discover? And what great power has this village unearthed?<br><br>Key Features: <br>FIGHT WITH CHAOTIC MAGIC - experiment with various spells and powers to become an unstoppable magical force<br>SHIFTING TREACHEROUS DUNGEONS - high-octane energy and short-paced levels will keep you on your toes. You’ll never know what horror lies beyond the next corner.<br>GROW YOUR POWERS - rescue villagers to open shops for permanent upgrades to prolong your runs and maximize your potential<br>CHOOSE YOUR CHALLENGE - mix keys and runes gathered on your journeys to generate and combine different dungeon encounters.",
+    "developers": [{ "developer-name": "Nullpointer Games" }],
+    "downloads": {
+      "windows": {
+        "build_version": 2,
+        "builds": [
+          {
+            "build_version": 2,
+            "download_file_size": 976665920,
+            "executable_path": "ITPBuildHumbleApp/Into The Pit.exe",
+            "filename": "ITPBuildHumbleApp.zip",
+            "installed_file_size": 1736954641,
+            "signature_file": "intothepit_client_windows_2.sig"
+          }
+        ],
+        "file_size": 976665920,
+        "machine_name": "intothepit_client_windows",
+        "md5": "db9df921f5f9c0a5601dd3e2bab92f96",
+        "name": "Download",
+        "size": "931.4 MB",
+        "small": 0,
+        "timestamp": 1651512967,
+        "uploaded_at": 1651512658379,
+        "url": {
+          "bittorrent": "ITPBuildHumbleApp.zip.torrent",
+          "web": "ITPBuildHumbleApp.zip"
+        }
+      }
+    },
+    "hero-background-image": null,
+    "hero-character-image": null,
+    "hero-game-logo": null,
+    "hero-marketing-blurb": null,
+    "human-name": "Into the Pit",
+    "humble-original": null,
+    "image": "https://hb.imgix.net/2d242b1cab5af73bbff37686305c784eac467cf0.png?auto=compress,format&fit=crop&h=353&w=616&s=f5c4140117e67917eefdcf97cf74acad",
+    "is-client-hero": null,
+    "logo": null,
+    "machine_name": "intothepit_collection",
+    "marketing-blurb": "As members of a family of lore-hunting mystics, you and your cousin Luridia separately wander the land following rumors of occult power. After discovering a demonic pit in a nearby village, Luridia’s once prolific letters grow silent. <br><br>Something has gone terribly wrong. <br><br>Now it is up to you to journey to the desolate hamlet under dark eldritch skies. What did Luridia discover? And what great power has this village unearthed?<br><br>Key Features: <br>FIGHT WITH CHAOTIC MAGIC - experiment with various spells and powers to become an unstoppable magical force<br>SHIFTING TREACHEROUS DUNGEONS - high-octane energy and short-paced levels will keep you on your toes. You’ll never know what horror lies beyond the next corner.<br>GROW YOUR POWERS - rescue villagers to open shops for permanent upgrades to prolong your runs and maximize your potential<br>CHOOSE YOUR CHALLENGE - mix keys and runes gathered on your journeys to generate and combine different dungeon encounters.",
+    "popularity": 0,
+    "publishers": [{ "publisher-name": "Humble Games" }],
+    "trove-showcase-css": null,
+    "trove_category": "premium",
     "youtube-link": null
   },
   {
@@ -5327,7 +5506,7 @@
     "logo": null,
     "machine_name": "thecorridor_trove",
     "marketing-blurb": "THE CORRIDOR is a 20-30 minute experience about the relationship between player and game.<br><br>GENRE:<br>\n<ul>\n<li>First-person-walking-down-a-corridor-game. (\"Wait, isn't that most games?\" I hear you ask sarcastically. Not like this. Not like this.)</li>\n</ul>\nKEY FEATURES:<br>\n<ul>\n<li>A corridor.</li>\n<li>The things found within said corridor.</li>\n</ul>\nGAMEPLAY:<br>\n<ul>\n<li>You walk down a corridor. That's it. That's literally it. Don't expect anything more than that, because there isn't!</li>\n<li>Probably.</li>\n</ul>",
-    "popularity": 3,
+    "popularity": 6,
     "publishers": null,
     "trove-showcase-css": null,
     "trove_category": "general",
@@ -5488,7 +5667,7 @@
     "logo": null,
     "machine_name": "thewildatheart_trove",
     "marketing-blurb": "<span>Wield an ever-growing herd of quirky creatures to rebuild broken paths, battle perilous beasts, and solve peculiar puzzles in a rich, interconnected world. Join two young runaways as they unravel the mysteries of a lost realm in this nostalgic storybook fantasy!</span><br><br><strong>Amass your Horde</strong><br>Collect and deploy a swarm of quirky Spritelings; small magical creatures for you to command. Break stuff, collect loot, fight enemies, build new paths, and more!<br><br><strong>Explore</strong><br>A unique and sequestered world rich with centuries full of lore. Woods, caves, coastline, ancient shrines... The Deep Woods is full of puzzles to be solved and secrets waiting to be uncovered.<br><br><strong>Collect &amp; Craft</strong><br>Gather rare resources like magical crystals, scrap, electrical components and more to build new structures, items, and upgrades! <br><br><strong>Battle</strong><br>Take on precarious wildlife and supernatural foes with the unique abilities of your Spriteling swarm and your trusty vacuum, the Gustbuster!<br><br><strong>Nightfall</strong><br>\"The dark is bad!\" - A common saying among the denizens of the Deep Woods, and for good reason. Malevolent beings lurk in the shadows here and you may just find yourself wanting to stay near a campfire light until sunrise.",
-    "popularity": 4,
+    "popularity": 6,
     "publishers": [{ "publisher-name": "Humble Games" }],
     "trove-showcase-css": null,
     "trove_category": "premium",

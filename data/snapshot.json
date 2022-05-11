@@ -953,74 +953,6 @@
     "background-image": null,
     "carousel-content": {
       "screenshot": [
-        "https://hb.imgix.net/fee258fb9bbcbfe853d9d76e87c626f9f369c7e1.jpg?auto=compress,format&fit=crop&h=314&w=570&s=4bbd759c789dc3db336276f236771299",
-        "https://hb.imgix.net/376d21619924a709d61f21f73e72bcfda32be97a.jpg?auto=compress,format&fit=crop&h=314&w=570&s=2643bf6f7a34f0a2d760f5d16d5c24e0",
-        "https://hb.imgix.net/13393a78bdaf3308b76c0dba356ac525a85f6d49.jpg?auto=compress,format&fit=crop&h=314&w=570&s=deb9eaaf47d877f7150028166e1589e1",
-        "https://hb.imgix.net/244d6b150333831c4dab3a4a508a574a9a1bc816.jpg?auto=compress,format&fit=crop&h=314&w=570&s=a86925b117a0ba35f4e3f38b2a2bccba",
-        "https://hb.imgix.net/15574f909a341e8678b69de4b8f76e540d5c48bd.jpg?auto=compress,format&fit=crop&h=314&w=570&s=362cbc004a5d1a2060ea09f62a641a20"
-      ],
-      "thumbnail": [
-        "https://hb.imgix.net/fee258fb9bbcbfe853d9d76e87c626f9f369c7e1.jpg?auto=compress,format&fit=crop&h=59&w=105&s=c39c8770d58fcbda06ab915ef2b6b052",
-        "https://hb.imgix.net/376d21619924a709d61f21f73e72bcfda32be97a.jpg?auto=compress,format&fit=crop&h=59&w=105&s=4e1856fbb7422e344f3438952e8c960f",
-        "https://hb.imgix.net/13393a78bdaf3308b76c0dba356ac525a85f6d49.jpg?auto=compress,format&fit=crop&h=59&w=105&s=9efa0f89bb105b5c2d951657f4674ce3",
-        "https://hb.imgix.net/244d6b150333831c4dab3a4a508a574a9a1bc816.jpg?auto=compress,format&fit=crop&h=59&w=105&s=fe7568777f2b04d9aa14a2a5fbbd1b55",
-        "https://hb.imgix.net/15574f909a341e8678b69de4b8f76e540d5c48bd.jpg?auto=compress,format&fit=crop&h=59&w=105&s=50c3207b1fa95c5930cb158f1e9cf163"
-      ],
-      "youtube-link": ["muL2adlVshw"]
-    },
-    "date-added": 1588957200,
-    "date-ended": 1652029200,
-    "description-text": "<strong> Prepare your crew for their most dangerous mission yet and go chocks away for a sky-bound expedition in this strategic survival sim, <i>Bomber Crew</i>. </strong> <br><br><strong> Choose your Crew! </strong> <br>Train and personalise your own <i>Bomber Crew</i>. Procedurally-generated names, skills and back stories means a unique experience for everyone, but be careful, as death is permanent. <br><br><br><strong> Immersive flight simulation! </strong> <br>Carefully manage everything from fuel, ammo, hydraulics and more in your very own physics-based Bomber. Make it yours with a wide array of nose art and liveries, or design your own with the simple to use in-game tool. <br><br><br><strong> Fast paced strategy! </strong> <br>Each mission is a high-risk expedition where danger comes from every angle. Enemy fighters, flak guns, poor weather, low oxygen and an array of other perilous dangers await when the wheels are up. <br><br><br><strong> Be prepared! </strong> <br>Preparation is key for a successful mission. Tag enemy fighters before they reach you, make sure your destination is marked but most importantly, make sure you have the right team for the job. On a WW2 bomber, every role is essential for victory!",
-    "developers": [{ "developer-name": "Runner Duck" }],
-    "downloads": {
-      "windows": {
-        "build_version": 1,
-        "builds": [
-          {
-            "build_version": 1,
-            "download_file_size": 438506052,
-            "executable_path": "PC/BomberCrew.exe",
-            "filename": "Bomber_Crew__Base_Game_-8269.zip",
-            "installed_file_size": 694864441,
-            "signature_file": "bombercrew_win_1.sig"
-          }
-        ],
-        "file_size": 438506052,
-        "machine_name": "bombercrew_win",
-        "md5": "1bc7963a70c9adcd3354458713697073",
-        "name": "Download",
-        "size": "418.2 MB",
-        "small": 0,
-        "uploaded_at": 1588363413901,
-        "url": {
-          "bittorrent": "Bomber_Crew__Base_Game_-8269.zip.torrent",
-          "web": "Bomber_Crew__Base_Game_-8269.zip"
-        }
-      }
-    },
-    "hero-background-image": null,
-    "hero-character-image": null,
-    "hero-game-logo": null,
-    "hero-marketing-blurb": null,
-    "human-name": "Bomber Crew",
-    "humble-original": null,
-    "image": "https://hb.imgix.net/bfbf4ae6d0d5dabd49233d75000935c661eaa1a5.jpg?auto=compress,format&fit=crop&h=353&w=616&s=57a249a937f676c0edc541ecf6504315",
-    "is-client-hero": null,
-    "logo": null,
-    "machine_name": "bombercrew_trove",
-    "marketing-blurb": "<strong> Prepare your crew for their most dangerous mission yet and go chocks away for a sky-bound expedition in this strategic survival sim, <i>Bomber Crew</i>. </strong> <br><br><strong> Choose your Crew! </strong> <br>Train and personalise your own <i>Bomber Crew</i>. Procedurally-generated names, skills and back stories means a unique experience for everyone, but be careful, as death is permanent. <br><br><br><strong> Immersive flight simulation! </strong> <br>Carefully manage everything from fuel, ammo, hydraulics and more in your very own physics-based Bomber. Make it yours with a wide array of nose art and liveries, or design your own with the simple to use in-game tool. <br><br><br><strong> Fast paced strategy! </strong> <br>Each mission is a high-risk expedition where danger comes from every angle. Enemy fighters, flak guns, poor weather, low oxygen and an array of other perilous dangers await when the wheels are up. <br><br><br><strong> Be prepared! </strong> <br>Preparation is key for a successful mission. Tag enemy fighters before they reach you, make sure your destination is marked but most importantly, make sure you have the right team for the job. On a WW2 bomber, every role is essential for victory!",
-    "popularity": 1,
-    "publishers": [{ "publisher-name": "Curve Games" }],
-    "trove-showcase-css": null,
-    "trove_category": "general",
-    "youtube-link": null
-  },
-  {
-    "all-access": false,
-    "background-color": null,
-    "background-image": null,
-    "carousel-content": {
-      "screenshot": [
         "https://hb.imgix.net/c75b11020dacfc8504bc1812fca6d684476a7f26.png?auto=compress,format&fit=crop&h=314&w=570&s=67c9afbc72c75977f193993bc20f6b53",
         "https://hb.imgix.net/e5d9c2767c49e6914c99163c489c920b7a4e9c6c.png?auto=compress,format&fit=crop&h=314&w=570&s=f358b2f2de32e8f7c0a34abd91dfb910",
         "https://hb.imgix.net/7bb402610b781dd570440b1ee4edec90bb474f73.png?auto=compress,format&fit=crop&h=314&w=570&s=a54614c8c4cf3ba454760dcb9819faa6",
@@ -1537,7 +1469,7 @@
     "logo": null,
     "machine_name": "cryingsuns_collection",
     "marketing-blurb": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/873940/extras/steam-cutscene.png?t=1593561445\"> <strong> <br><br>When FTL meets Foundation... and Dune </strong> <br><br><i>Crying Suns</i> is a <strong> tactical rogue-lite </strong> that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire. <br><br>In this <strong> story rich experience </strong> inspired by <strong> Dune </strong> and <strong> Foundation </strong> , each successful run will uncover the truth about the Empire... and yourself as well. <strong> <br><br>Main Features </strong> <br><br>- <strong> Space exploration </strong> in a procedurally-generated universe <br>- <strong> Tactical fights </strong> between battleships and their squadron fleets <br>- More than <strong> 300 possible story events </strong> <br>- A deep and dramatic storyline structured in <strong> 6 chapters </strong> <br>- <strong> A dark and disturbing atmosphere </strong> inspired by our favorite S-F universes (Foundation, Dune, Battlestar Galactica) <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/873940/extras/new-fight.png?t=1593561445\"> <strong> <br><br>The story: The epic journey of a clone </strong> <br><br>After 700 years of peace and prosperity, <strong> the Galactic Empire has suddenly been shattered into pieces </strong> . The <strong> OMNIs </strong> , god-like machines which did everything for their human masters, have mysteriously shut down. And humankind, having long since lost the ability to survive on its own, is dangerously close to extinction. But somewhere in a far corner of the Galaxy is Gehenna, a planet of ice and rock and a top-secret facility that is the pinnacle of Imperial Tech and also humanity’s last chance. <br><br><strong> You are a clone of Admiral Ellys Idaho </strong> , a weapon fashioned from flesh, the best Imperial Admiral ever to battle in the stars and you have just been awoken on this planet by its strange and darkly-humorous Guardian, Kaliban, the last functional OMNI to exist. <br><br>Your mission: skillfully command a battleship through the Empire's now chaotic, violent clusters ––where one wrong move could be your last–– as you <strong> try to reactivate the OMNIs </strong> and <strong> save the future of all humankind </strong> . But you must leave Gehenna now.... for time has almost run out. <strong> <br><br>Platforms </strong> <br><span>Crying Suns is available on PC and Mac.</span><br><span>You can also get it on your tablet and smartphone on the </span><a href=\"https://apps.apple.com/us/app/crying-suns/id1511788295\" rel=\"noopener\" target=\"_blank\"><b>Apple AppStore here</b></a><span>.</span><br><span>Or on the </span><a href=\"https://play.google.com/store/apps/details?id=com.altshift.cryingsuns&amp;hl=fr&amp;gl=US\" rel=\"noopener\" target=\"_blank\"><b>Google Play Store here</b></a><span>.</span><br><br><img height=\"106\" src=\"https://hb.imgix.net/f283955a8087471f6f5c5fd24bbf4d000aa702b3.png?auto=compress,format&amp;s=bcb151aa45a7babef9cbb7f1def7d713\" width=\"620\">",
-    "popularity": 0,
+    "popularity": 1,
     "publishers": [
       {
         "publisher-name": "Humble Games",
@@ -3177,7 +3109,7 @@
       "style": "color: white;",
       "text": "<em>Jawns</em>&nbsp;is a reimagined classic strategy boardgame right out of Philly. Play your friends online in one of our five modes, or remix the rules to create over 1.5 million different ways to play."
     },
-    "popularity": 74,
+    "popularity": 1,
     "publishers": [
       {
         "publisher-name": "Humble Bundle",
@@ -3420,17 +3352,17 @@
     ],
     "downloads": {
       "linux": {
-        "file_size": 149257028,
+        "file_size": 149105200,
         "machine_name": "kindwords_linux",
-        "md5": "c4cfc5e184cba2bb19964ae429c92966",
+        "md5": "7b6fdb3bfb3ed1dc29cdb7753a5aafad",
         "name": "Download",
-        "size": "142.3 MB",
+        "size": "142.2 MB",
         "small": 0,
-        "timestamp": 1648915910,
-        "uploaded_at": 1648915844286,
+        "timestamp": 1652128159,
+        "uploaded_at": 1652128094630,
         "url": {
-          "bittorrent": "popcannibal/kind-words-linux-64-67.zip.torrent",
-          "web": "popcannibal/kind-words-linux-64-67.zip"
+          "bittorrent": "popcannibal/kind-words-linux-64-74.zip.torrent",
+          "web": "popcannibal/kind-words-linux-64-74.zip"
         }
       },
       "mac": {
@@ -3445,42 +3377,42 @@
             "signature_file": "kindwords_mac_1.sig"
           }
         ],
-        "file_size": 141971776,
+        "file_size": 141852740,
         "machine_name": "kindwords_mac",
-        "md5": "944be4f3c01fca74cb7c9a3e7217026e",
+        "md5": "622256efcd4321389b0c7397df4ccbb4",
         "name": "Download",
-        "size": "135.4 MB",
+        "size": "135.3 MB",
         "small": 0,
-        "timestamp": 1648915827,
-        "uploaded_at": 1648915750019,
+        "timestamp": 1652128069,
+        "uploaded_at": 1652128008404,
         "url": {
-          "bittorrent": "popcannibal/kind-words-mac-66-2.zip.torrent",
-          "web": "popcannibal/kind-words-mac-66-2.zip"
+          "bittorrent": "popcannibal/kind-words-mac-74.zip.torrent",
+          "web": "popcannibal/kind-words-mac-74.zip"
         }
       },
       "windows": {
-        "build_version": 2,
+        "build_version": 4,
         "builds": [
           {
-            "build_version": 2,
-            "download_file_size": 131589200,
+            "build_version": 4,
+            "download_file_size": 131688239,
             "executable_path": "Kind Words.exe",
-            "filename": "popcannibal/kind-words-windows-64-66.zip",
-            "installed_file_size": 244962646,
-            "signature_file": "kindwords_win_2.sig"
+            "filename": "popcannibal/kind-words-windows-64-74.zip",
+            "installed_file_size": 244551069,
+            "signature_file": "kindwords_win_4.sig"
           }
         ],
-        "file_size": 131827007,
+        "file_size": 131688239,
         "machine_name": "kindwords_win",
-        "md5": "7b6dd5b1c43a18a3777f15306a4b596e",
+        "md5": "06e82b4ef5116a6fda80fd760668fe20",
         "name": "Download",
-        "size": "125.7 MB",
+        "size": "125.6 MB",
         "small": 0,
-        "timestamp": 1648844729,
-        "uploaded_at": 1648844650078,
+        "timestamp": 1652127978,
+        "uploaded_at": 1652127895776,
         "url": {
-          "bittorrent": "popcannibal/kind-words-windows-64-67.zip.torrent",
-          "web": "popcannibal/kind-words-windows-64-67.zip"
+          "bittorrent": "popcannibal/kind-words-windows-64-74.zip.torrent",
+          "web": "popcannibal/kind-words-windows-64-74.zip"
         }
       }
     },

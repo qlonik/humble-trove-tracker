@@ -1046,6 +1046,111 @@
     "background-color": null,
     "background-image": null,
     "carousel-content": {
+      "asm-demo-machine-name": [],
+      "screenshot": [
+        "https://hb.imgix.net/2c4868579739cdab112ae61c0a9e71211044b2cc.jpg?auto=compress,format&fit=crop&h=314&w=570&s=8fad5c10f0aaeca59ee2cab3f34c50c9",
+        "https://hb.imgix.net/ab2814471f29c5c05488faba85a7e6e83f8d90bc.jpg?auto=compress,format&fit=crop&h=314&w=570&s=8fcafe1c6e9503085d656177fbaea40c",
+        "https://hb.imgix.net/e8e77207dc959f0e1ed8fdbb69f062bc05fe9d50.jpg?auto=compress,format&fit=crop&h=314&w=570&s=5d28694684ea66f502b208b8eff7f4cb",
+        "https://hb.imgix.net/9b912fe8dd4dc29e05b69ad1618044fc32b71177.jpg?auto=compress,format&fit=crop&h=314&w=570&s=dcbe66fe3ae28c3327b1e286345a14ce",
+        "https://hb.imgix.net/33e9a54eefa5134620b74e20d472ee0f48582c6c.jpg?auto=compress,format&fit=crop&h=314&w=570&s=56ad69a10e451522a85fd0c191c9b421",
+        "https://hb.imgix.net/1f250f30e5eb5de92bd2abb40bcdeb93b1852299.jpg?auto=compress,format&fit=crop&h=314&w=570&s=10b1f5fd208523373a1f3dc7ca8c5852",
+        "https://hb.imgix.net/cde6c0f8e85b7a95ab6d25af50a6f80b83c51557.jpg?auto=compress,format&fit=crop&h=314&w=570&s=cd5a2809e76749aaa1694d8699453975",
+        "https://hb.imgix.net/b07bda74f065cb278fcd92015b6b1c0395f38291.jpg?auto=compress,format&fit=crop&h=314&w=570&s=f065d78ebaf0b03fa38eac8b2a91966b",
+        "https://hb.imgix.net/8e3fdea9837a292bfcfc23318f781be1f7779219.jpg?auto=compress,format&fit=crop&h=314&w=570&s=c217b757f87235c8459b535491ea9540",
+        "https://hb.imgix.net/8a55d3b3e127f0714243f699659dc41d3aae813a.jpg?auto=compress,format&fit=crop&h=314&w=570&s=f9c5ba46d93056cb4c29230f677d8975",
+        "https://hb.imgix.net/f5a8e62aedc39e5298cdbff862a049740e22fd1b.jpg?auto=compress,format&fit=crop&h=314&w=570&s=c7b013fc68252152af6979e9dde205f1",
+        "https://hb.imgix.net/f22c65a55dc5f80e8b8c242f743da74e4b6550fe.jpg?auto=compress,format&fit=crop&h=314&w=570&s=c4d6cbcf9a640fdcbb86f66588c23b17",
+        "https://hb.imgix.net/a31cfc57fbd67a76a3f545a2e1232e411132230d.jpg?auto=compress,format&fit=crop&h=314&w=570&s=b95ee21c715a7a98957bb57a178b7c7d",
+        "https://hb.imgix.net/01ea4da56eb0ce6bbda4b35b9d8df1501c9c35be.jpg?auto=compress,format&fit=crop&h=314&w=570&s=39ae2282c5a88b5787cd3488428a1cc2"
+      ],
+      "thumbnail": [
+        "https://hb.imgix.net/2c4868579739cdab112ae61c0a9e71211044b2cc.jpg?auto=compress,format&fit=crop&h=59&w=105&s=3b67b1bf77ea1a1313122e4abe5a1033",
+        "https://hb.imgix.net/ab2814471f29c5c05488faba85a7e6e83f8d90bc.jpg?auto=compress,format&fit=crop&h=59&w=105&s=19d8aab29938fdd2c3e4af160b7cd1ee",
+        "https://hb.imgix.net/e8e77207dc959f0e1ed8fdbb69f062bc05fe9d50.jpg?auto=compress,format&fit=crop&h=59&w=105&s=4822cb1356c8e0adc6be666b7ac0e622",
+        "https://hb.imgix.net/9b912fe8dd4dc29e05b69ad1618044fc32b71177.jpg?auto=compress,format&fit=crop&h=59&w=105&s=3e5a1d5c5f5e4ed0c191a1bbbf5705a1",
+        "https://hb.imgix.net/33e9a54eefa5134620b74e20d472ee0f48582c6c.jpg?auto=compress,format&fit=crop&h=59&w=105&s=5794c9403841ef9db3c2d312c0412c33",
+        "https://hb.imgix.net/1f250f30e5eb5de92bd2abb40bcdeb93b1852299.jpg?auto=compress,format&fit=crop&h=59&w=105&s=6f0407e65fabca194840348530567be8",
+        "https://hb.imgix.net/cde6c0f8e85b7a95ab6d25af50a6f80b83c51557.jpg?auto=compress,format&fit=crop&h=59&w=105&s=47b6103a27a76a8cd2bd99ba212cd880",
+        "https://hb.imgix.net/b07bda74f065cb278fcd92015b6b1c0395f38291.jpg?auto=compress,format&fit=crop&h=59&w=105&s=3cb17e0cacfa6f7cc37d352802909ac7",
+        "https://hb.imgix.net/8e3fdea9837a292bfcfc23318f781be1f7779219.jpg?auto=compress,format&fit=crop&h=59&w=105&s=fa0719cf6af0b23b7ee7573e41dbad9d",
+        "https://hb.imgix.net/8a55d3b3e127f0714243f699659dc41d3aae813a.jpg?auto=compress,format&fit=crop&h=59&w=105&s=b5cc665b89532663d9a55277e6a66daa",
+        "https://hb.imgix.net/f5a8e62aedc39e5298cdbff862a049740e22fd1b.jpg?auto=compress,format&fit=crop&h=59&w=105&s=ca723430794350bf6baefc4e5942875e",
+        "https://hb.imgix.net/f22c65a55dc5f80e8b8c242f743da74e4b6550fe.jpg?auto=compress,format&fit=crop&h=59&w=105&s=a826bcd474f62dbf58f4c50ec07ce837",
+        "https://hb.imgix.net/a31cfc57fbd67a76a3f545a2e1232e411132230d.jpg?auto=compress,format&fit=crop&h=59&w=105&s=99e9ca7a1f7107cd2d00c88039b41599",
+        "https://hb.imgix.net/01ea4da56eb0ce6bbda4b35b9d8df1501c9c35be.jpg?auto=compress,format&fit=crop&h=59&w=105&s=19885ed1f42dfea043bc3a281da17454"
+      ],
+      "youtube-link": ["107fRcdh1_Q", "dvyrhZfYo1Q"]
+    },
+    "date-added": 1657040400,
+    "date-ended": null,
+    "description-text": "<video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\">\n <source src=\"https://hb.imgix.net/b46f62abee4c7cdd493ddd9d2308899c53eb6e2f.gif?auto=format&amp;fm=mp4&amp;s=b880331c65cd8abf0dfba87ad03a5992\" type=\"video/mp4\">\n</video> <br><br>Midnight in Singapore. Your contact’s a no show, your client wants answers and your empty bank balance hangs over you like a neon-tinted Sword of Damocles. Welcome to 2032. Welcome to <i>Chinatown Detective Agency</i>. <br><br>The world is in a state of flux as the global economy nears the nadir of its decade-long collapse. Singapore stands as a last refuge of order but even here the government struggles on the brink of chaos. Private detectives are now the first call for those citizens able to afford a semblance of justice. <br><br>That’s where you come in. You are Amira Darma, once a rising star at INTERPOL, now a freshly minted Private Investigator in the heart of Chinatown, and your first client is about to walk through your door... <br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\">\n <source src=\"https://hb.imgix.net/0ccc960c4c4caf9d96e8c8a385e43051cdbdaaa5.gif?auto=format&amp;fm=mp4&amp;s=aee1a53737877774a82d7e77b0b8c7dc\" type=\"video/mp4\">\n</video> <br><br><strong>EXPLORE A WORLD ON THE EDGE</strong><br>Neon lamp-light reflected in pools of rainwater. The fury of the angry masses manifested in graffiti daubed across decaying cities. The encroaching murk of riverside London and the blinding lights of Shanghai. Explore over a hundred stunningly rendered environments from artist Ricardo Juchem and immerse yourself in the chaotic future of 2037.Travel the globe from your base in Singapore in search of leads, and talk with dozens of uniquely voiced characters each with their own mysterious agendas.<br><br><strong>SOLVE CASES WITH REAL WORLD RESEARCH</strong><br>The cases Amira takes on require smart thinking and intuition to beat - but what happens when the clues dry up? That’s when you’ll have to look beyond the game for answers. The mysteries of Chinatown Detective Agency require real world investigation, whether that’s an online search for an airport code or tracking down a mysterious quote. You’re not just playing a detective, you’re becoming one.<br><br><strong>DON’T GO BANKRUPT!</strong><br>In Chinatown Detective Agency, time is a precious resource. Use your time and money wisely to stay one step ahead, and avoid the looming threat of going broke.<br><br>Every choice will affect the world around you and change Amira’s story for good. Can you save the city from the jaws of panic and pandemonium?",
+    "developers": [{ "developer-name": "General Interactive Co." }],
+    "downloads": {
+      "mac": {
+        "file_size": 785241021,
+        "machine_name": "chinatowndetectiveagency_mac",
+        "md5": "bcf0750e0f8dc4be58d963f56ff079d1",
+        "name": "Download",
+        "size": "748.9 MB",
+        "small": 0,
+        "uploaded_at": 1649361711826,
+        "url": {
+          "bittorrent": "chinatowndetectiveagency_mac.zip.torrent",
+          "web": "chinatowndetectiveagency_mac.zip"
+        }
+      },
+      "windows": {
+        "build_version": 2,
+        "builds": [
+          {
+            "build_version": 2,
+            "download_file_size": 785877519,
+            "executable_path": "Windows - HUMBLE/Chinatown Detective Agency.exe",
+            "filename": "Windows_-_HUMBLE.zip",
+            "installed_file_size": 1839773345,
+            "signature_file": "chinatowndetectiveagency_windows_2.sig"
+          }
+        ],
+        "file_size": 785877519,
+        "machine_name": "chinatowndetectiveagency_windows",
+        "md5": "dd4d90aa0eb2db2dba0bda83589260e4",
+        "name": "Download",
+        "sha1": "SHA1 hash",
+        "size": "749.5 MB",
+        "small": 0,
+        "timestamp": 1655430893,
+        "uploaded_at": 1655430650038,
+        "url": {
+          "bittorrent": "Windows_-_HUMBLE.zip.torrent",
+          "web": "Windows_-_HUMBLE.zip"
+        }
+      }
+    },
+    "hero-background-image": null,
+    "hero-character-image": null,
+    "hero-game-logo": null,
+    "hero-marketing-blurb": null,
+    "human-name": "Chinatown Detective Agency",
+    "humble-original": null,
+    "image": "https://hb.imgix.net/02eafce411bbbc47af53f6fc928dbd1d9c67c312.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e635f0a869b309a381dac7a9b74496cc",
+    "is-client-hero": null,
+    "logo": null,
+    "machine_name": "chinatowndetectiveagency_collection",
+    "marketing-blurb": "<video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\">\n <source src=\"https://hb.imgix.net/b46f62abee4c7cdd493ddd9d2308899c53eb6e2f.gif?auto=format&amp;fm=mp4&amp;s=b880331c65cd8abf0dfba87ad03a5992\" type=\"video/mp4\">\n</video> <br><br>Midnight in Singapore. Your contact’s a no show, your client wants answers and your empty bank balance hangs over you like a neon-tinted Sword of Damocles. Welcome to 2032. Welcome to <i>Chinatown Detective Agency</i>. <br><br>The world is in a state of flux as the global economy nears the nadir of its decade-long collapse. Singapore stands as a last refuge of order but even here the government struggles on the brink of chaos. Private detectives are now the first call for those citizens able to afford a semblance of justice. <br><br>That’s where you come in. You are Amira Darma, once a rising star at INTERPOL, now a freshly minted Private Investigator in the heart of Chinatown, and your first client is about to walk through your door... <br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\">\n <source src=\"https://hb.imgix.net/0ccc960c4c4caf9d96e8c8a385e43051cdbdaaa5.gif?auto=format&amp;fm=mp4&amp;s=aee1a53737877774a82d7e77b0b8c7dc\" type=\"video/mp4\">\n</video> <br><br><strong>EXPLORE A WORLD ON THE EDGE</strong><br>Neon lamp-light reflected in pools of rainwater. The fury of the angry masses manifested in graffiti daubed across decaying cities. The encroaching murk of riverside London and the blinding lights of Shanghai. Explore over a hundred stunningly rendered environments from artist Ricardo Juchem and immerse yourself in the chaotic future of 2037.Travel the globe from your base in Singapore in search of leads, and talk with dozens of uniquely voiced characters each with their own mysterious agendas.<br><br><strong>SOLVE CASES WITH REAL WORLD RESEARCH</strong><br>The cases Amira takes on require smart thinking and intuition to beat - but what happens when the clues dry up? That’s when you’ll have to look beyond the game for answers. The mysteries of Chinatown Detective Agency require real world investigation, whether that’s an online search for an airport code or tracking down a mysterious quote. You’re not just playing a detective, you’re becoming one.<br><br><strong>DON’T GO BANKRUPT!</strong><br>In Chinatown Detective Agency, time is a precious resource. Use your time and money wisely to stay one step ahead, and avoid the looming threat of going broke.<br><br>Every choice will affect the world around you and change Amira’s story for good. Can you save the city from the jaws of panic and pandemonium?",
+    "popularity": 0,
+    "publishers": [
+      { "publisher-name": "Humble Games" },
+      { "publisher-name": "WhisperGames" }
+    ],
+    "trove-showcase-css": null,
+    "trove_category": "premium",
+    "youtube-link": null
+  },
+  {
+    "all-access": false,
+    "background-color": null,
+    "background-image": null,
+    "carousel-content": {
       "screenshot": [
         "https://hb.imgix.net/b6e9a17a9facd7f78c75a56a88a19ed6db7620a6.png?auto=compress,format&fit=crop&h=314&w=570&s=4f7131b2c09ce902e69131b91b1dfda2",
         "https://hb.imgix.net/8ae1528cc5f41b7efaa527a5c508c0758be24b6f.png?auto=compress,format&fit=crop&h=314&w=570&s=014ae40ffc9b3551e615d5de9f0cbeec",

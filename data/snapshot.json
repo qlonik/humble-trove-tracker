@@ -3457,17 +3457,17 @@
     ],
     "downloads": {
       "linux": {
-        "file_size": 149105200,
+        "file_size": 149121125,
         "machine_name": "kindwords_linux",
-        "md5": "7b6fdb3bfb3ed1dc29cdb7753a5aafad",
+        "md5": "56f366a5e7b8edb910e89e5b4fdf3eaf",
         "name": "Download",
         "size": "142.2 MB",
         "small": 0,
-        "timestamp": 1652128159,
-        "uploaded_at": 1652128094630,
+        "timestamp": 1657296695,
+        "uploaded_at": 1657296616161,
         "url": {
-          "bittorrent": "popcannibal/kind-words-linux-64-74.zip.torrent",
-          "web": "popcannibal/kind-words-linux-64-74.zip"
+          "bittorrent": "popcannibal/kind-words-linux-64-76.zip.torrent",
+          "web": "popcannibal/kind-words-linux-64-76.zip"
         }
       },
       "mac": {
@@ -3482,17 +3482,17 @@
             "signature_file": "kindwords_mac_1.sig"
           }
         ],
-        "file_size": 141852740,
+        "file_size": 141868249,
         "machine_name": "kindwords_mac",
-        "md5": "622256efcd4321389b0c7397df4ccbb4",
+        "md5": "79aea9199086f79495f486898cab010f",
         "name": "Download",
         "size": "135.3 MB",
         "small": 0,
-        "timestamp": 1652128069,
-        "uploaded_at": 1652128008404,
+        "timestamp": 1657296640,
+        "uploaded_at": 1657296545161,
         "url": {
-          "bittorrent": "popcannibal/kind-words-mac-74.zip.torrent",
-          "web": "popcannibal/kind-words-mac-74.zip"
+          "bittorrent": "popcannibal/kind-words-mac-76.zip.torrent",
+          "web": "popcannibal/kind-words-mac-76.zip"
         }
       },
       "windows": {
@@ -3507,17 +3507,17 @@
             "signature_file": "kindwords_win_4.sig"
           }
         ],
-        "file_size": 131688239,
+        "file_size": 131784074,
         "machine_name": "kindwords_win",
-        "md5": "06e82b4ef5116a6fda80fd760668fe20",
+        "md5": "42675e36c0cd7aa2da82e61897e453bc",
         "name": "Download",
-        "size": "125.6 MB",
+        "size": "125.7 MB",
         "small": 0,
-        "timestamp": 1652127978,
-        "uploaded_at": 1652127895776,
+        "timestamp": 1657296740,
+        "uploaded_at": 1657296677272,
         "url": {
-          "bittorrent": "popcannibal/kind-words-windows-64-74.zip.torrent",
-          "web": "popcannibal/kind-words-windows-64-74.zip"
+          "bittorrent": "popcannibal/kind-words-windows-64-76.zip.torrent",
+          "web": "popcannibal/kind-words-windows-64-76.zip"
         }
       }
     },

@@ -3496,15 +3496,15 @@
         }
       },
       "windows": {
-        "build_version": 4,
+        "build_version": 5,
         "builds": [
           {
-            "build_version": 4,
-            "download_file_size": 131688239,
+            "build_version": 5,
+            "download_file_size": 131784074,
             "executable_path": "Kind Words.exe",
-            "filename": "popcannibal/kind-words-windows-64-74.zip",
-            "installed_file_size": 244551069,
-            "signature_file": "kindwords_win_4.sig"
+            "filename": "popcannibal/kind-words-windows-64-76.zip",
+            "installed_file_size": 244654073,
+            "signature_file": "kindwords_win_5.sig"
           }
         ],
         "file_size": 131784074,
